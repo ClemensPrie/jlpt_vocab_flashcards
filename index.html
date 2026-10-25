@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4efe6">
+  <meta name="description" content="Skim JLPT vocabulary with furigana, example sentences, and no spaced-repetition ratings.">
+  <title>JLPT Vocabulary Skim</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="JLPT Vocabulary Skim home">
+        <span class="brand-mark" aria-hidden="true">語</span>
+        <span><strong>Word by word</strong><small>JLPT vocabulary skim</small></span>
+      </a>
+      <div class="controls">
+        <label class="select-control">Level
+          <select id="level-select" aria-label="JLPT level">
+            <option value="n5">N5</option><option value="n4">N4</option><option value="n3">N3</option><option value="n2">N2</option><option value="n1">N1</option>
+          </select>
+        </label>
+        <label class="select-control">Show first
+          <select id="side-select" aria-label="Card front language">
+            <option value="ja">Japanese</option><option value="en">English</option>
+          </select>
+        </label>
+      </div>
+    </header>
+
+    <nav class="tabs" aria-label="App sections">
+      <button class="tab active" id="cards-tab" type="button" aria-selected="true">Cards</button>
+      <button class="tab" id="table-tab" type="button" aria-selected="false">Word table</button>
+      <span class="progress" id="progress" aria-live="polite"></span>
+    </nav>
+
+    <section id="cards-view" class="view" aria-labelledby="cards-tab">
+      <div class="section-heading">
+        <div><p class="eyebrow" id="level-eyebrow">JLPT N5</p><h1>Keep the words moving.</h1></div>
+        <button class="quiet-button" id="reset-button" type="button" title="Reset seen words for this level">↻ <span>Reset level</span></button>
+      </div>
+      <p class="hint">Tap the card to reveal the translation. Tap again for the next random word.</p>
+      <button id="flashcard" class="flashcard" type="button" aria-live="polite" disabled>
+        <span id="card-content"></span>
+        <span id="card-action" class="card-action">Loading vocabulary…</span>
+      </button>
+      <p class="cycle-note" id="cycle-note" aria-live="polite"></p>
+    </section>
+
+    <section id="table-view" class="view hidden" aria-labelledby="table-tab">
+      <div class="section-heading table-heading">
+        <div><p class="eyebrow" id="table-eyebrow">JLPT N5</p><h1>Every word in this level.</h1></div>
+        <label class="check-control"><input id="unseen-only" type="checkbox"> Not yet seen</label>
+      </div>
+      <p class="hint">Japanese readings and example sentences show furigana. The filter follows your current level’s progress.</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th scope="col">Japanese</th><th scope="col">English</th><th scope="col">Example</th></tr></thead>
+          <tbody id="word-rows"></tbody>
+        </table>
+      </div>
+      <p id="table-empty" class="empty-state hidden">No unseen words. Start a new round with Reset level or finish the current card cycle.</p>
+    </section>
+
+    <footer class="footer">
+      <span>One pass per level. No ratings or review schedule.</span>
+      <a href="./README.md">About the data</a>
+    </footer>
+  </main>
+  <script src="./app.js" defer></script>
+</body>
+</html>
