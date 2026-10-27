@@ -56,6 +56,8 @@ h1 { margin: 0; font-size: clamp(26px, 4vw, 39px); line-height: 1.12; letter-spa
 .example-en { color: #5f6c63; font-size: 14px; line-height: 1.55; }
 .card-action { margin-top: 28px; color: #899188; font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
 .card-action.next { color: var(--green); }
+.card-navigation { display: flex; justify-content: flex-start; margin-top: 12px; }
+#back-button:disabled { opacity: .45; cursor: default; }
 .cycle-note { min-height: 20px; margin: 14px 4px 0; color: var(--green); font-size: 12px; text-align: center; }
 .table-heading { align-items: center; }
 .check-control { display: inline-flex; align-items: center; gap: 8px; color: var(--green-dark); font-size: 13px; font-weight: 600; cursor: pointer; }

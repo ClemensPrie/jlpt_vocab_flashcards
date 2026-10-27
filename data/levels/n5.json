@@ -4,7 +4,7 @@
     "level": "N5",
     "word": "~か月",
     "reading": "~かげつ",
-    "wordFurigana": "{~か月|~かげつ}",
+    "wordFurigana": "~か{月|げつ}",
     "english": "(number of) months",
     "meanings": [
       "(number of) months"
@@ -21,9 +21,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~か月」ということばをおぼえます。",
-      "furigana": "「{~か月|~かげつ}」ということばをおぼえます。",
-      "en": "I learn the expression ?(number of) months.?",
+      "ja": "日本では四月に新学期が始まります。",
+      "furigana": "{日本|にっぽん}では{四月|しがつ}に{新学期|しんがっき}が{始|はじ}まります。",
+      "en": "The new school year starts in April in Japan.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -51,9 +51,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~がる」ということばをおぼえます。",
-      "furigana": "「~がる」ということばをおぼえます。",
-      "en": "I learn the expression ?feel.?",
+      "ja": "子どもは新しいおもちゃを欲しがっています。",
+      "furigana": "{子|こ}どもは{新|あたら}しいおもちゃを{欲|ほっ}しがっています。",
+      "en": "The child wants a new toy.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -81,9 +81,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~くらい; ぐらい」ということばをおぼえます。",
-      "furigana": "「~くらい; ぐらい」ということばをおぼえます。",
-      "en": "I learn the expression ?approximate (quantity).?",
+      "ja": "休みの日に友達と公園へ行きました。",
+      "furigana": "{休|やす}みの{日|にち}に{友達|ともだち}と{公園|こうえん}へ{行|い}きました。",
+      "en": "I went to the park with a friend on my day off.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -113,9 +113,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~ころ; ~ごろ」ということばをおぼえます。",
-      "furigana": "「~ころ; ~ごろ」ということばをおぼえます。",
-      "en": "I learn the expression ?about, toward, approximately (time).?",
+      "ja": "毎日七時ごろに家に帰ります。",
+      "furigana": "{毎日|まいにち}{七時|しちじ}ごろに{家|いえ}に{帰|かえ}ります。",
+      "en": "I get home at around seven every day.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -143,9 +143,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~さん」ということばをおぼえます。",
-      "furigana": "「~さん」ということばをおぼえます。",
-      "en": "I learn the expression ?Mr. ~, Ms. ~.?",
+      "ja": "田中さんは今日休みです。",
+      "furigana": "{田中|たなか}さんは{今日|きょう}{休|やす}みです。",
+      "en": "Mr. Tanaka is off today.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -173,9 +173,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~すぎ」ということばをおぼえます。",
-      "furigana": "「~すぎ」ということばをおぼえます。",
-      "en": "I learn the expression ?past; to exceed, ~ too much.?",
+      "ja": "昨夜はテレビを見すぎて、寝るのが遅くなりました。",
+      "furigana": "{昨夜|さくや}はテレビを{見|み}すぎて、{寝|ね}るのが{遅|おそ}くなりました。",
+      "en": "I watched too much television last night and went to bed late.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -203,9 +203,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~ずつ」ということばをおぼえます。",
-      "furigana": "「~ずつ」ということばをおぼえます。",
-      "en": "I learn the expression ?at a time.?",
+      "ja": "クッキーを一人に二つずつ配りました。",
+      "furigana": "クッキーを{一人|ひとり}に{二|ふた}つずつ{配|くば}りました。",
+      "en": "I gave each person two cookies.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -233,9 +233,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~たち」ということばをおぼえます。",
-      "furigana": "「~たち」ということばをおぼえます。",
-      "en": "I learn the expression ?plural suffix.?",
+      "ja": "子どもたちは公園で遊んでいます。",
+      "furigana": "{子|こ}どもたちは{公園|こうえん}で{遊|あそ}んでいます。",
+      "en": "The children are playing in the park.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -263,9 +263,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~だけ」ということばをおぼえます。",
-      "furigana": "「~だけ」ということばをおぼえます。",
-      "en": "I learn the expression ?only ~, just ~, as ~.?",
+      "ja": "今日は水だけ飲みました。",
+      "furigana": "{今日|こんにち}は{水|みず}だけ{飲|の}みました。",
+      "en": "I only drank water today.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -293,9 +293,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~など」ということばをおぼえます。",
-      "furigana": "「~など」ということばをおぼえます。",
-      "en": "I learn the expression ?et cetera.?",
+      "ja": "ノートやペンなどを買いました。",
+      "furigana": "ノートやペンなどを{買|か}いました。",
+      "en": "I bought notebooks, pens, and other things.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -306,7 +306,7 @@
     "level": "N5",
     "word": "~中",
     "reading": "~じゅう",
-    "wordFurigana": "{~中|~じゅう}",
+    "wordFurigana": "~{中|じゅう}",
     "english": "during, while",
     "meanings": [
       "during, while"
@@ -322,9 +322,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~中」ということばをおぼえます。",
-      "furigana": "「{~中|~じゅう}」ということばをおぼえます。",
-      "en": "I learn the expression ?during, while.?",
+      "ja": "休みの日に友達と公園へ行きました。",
+      "furigana": "{休|やす}みの{日|にち}に{友達|ともだち}と{公園|こうえん}へ{行|い}きました。",
+      "en": "I went to the park with a friend on my day off.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -335,7 +335,7 @@
     "level": "N5",
     "word": "~中",
     "reading": "~ちゅう",
-    "wordFurigana": "{~中|~ちゅう}",
+    "wordFurigana": "~{中|ちゅう}",
     "english": "during, while ~ing",
     "meanings": [
       "during, while ~ing"
@@ -352,9 +352,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~中」ということばをおぼえます。",
-      "furigana": "「{~中|~ちゅう}」ということばをおぼえます。",
-      "en": "I learn the expression ?during, while ~ing.?",
+      "ja": "休みの日に友達と公園へ行きました。",
+      "furigana": "{休|やす}みの{日|にち}に{友達|ともだち}と{公園|こうえん}へ{行|い}きました。",
+      "en": "I went to the park with a friend on my day off.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -365,7 +365,7 @@
     "level": "N5",
     "word": "~人",
     "reading": "~じん",
-    "wordFurigana": "{~人|~じん}",
+    "wordFurigana": "~{人|じん}",
     "english": "counter for people",
     "meanings": [
       "counter for people"
@@ -381,9 +381,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~人」ということばをおぼえます。",
-      "furigana": "「{~人|~じん}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for people.?",
+      "ja": "教室に学生が三人います。",
+      "furigana": "{教室|きょうしつ}に{学生|がくせい}が{三人|さんにん}います。",
+      "en": "There are three students in the classroom.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -411,9 +411,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~人」ということばをおぼえます。",
-      "furigana": "「~{人|にん}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for people.?",
+      "ja": "教室に学生が三人います。",
+      "furigana": "{教室|きょうしつ}に{学生|がくせい}が{三人|さんにん}います。",
+      "en": "There are three students in the classroom.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -441,9 +441,9 @@
       "topic:n5_topics_filtered.json#food_drink"
     ],
     "example": {
-      "ja": "「~個」ということばをおぼえます。",
-      "furigana": "「~{個|こ}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for small items (e.g., fruits, cups).?",
+      "ja": "果物を三個買って、友達と分けました。",
+      "furigana": "{果物|くだもの}を{三|さん}{個|こ}{買|か}って、{友達|ともだち}と{分|わ}けました。",
+      "en": "I bought three pieces of fruit and shared them with a friend.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -471,9 +471,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~側」ということばをおぼえます。",
-      "furigana": "「~{側|がわ}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ side.?",
+      "ja": "駅の東側に新しい店ができました。",
+      "furigana": "{駅|えき}の{東側|ひがしがわ}に{新|あたら}しい{店|みせ}ができました。",
+      "en": "A new shop opened on the east side of the station.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -501,9 +501,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~円」ということばをおぼえます。",
-      "furigana": "「~{円|えん}」ということばをおぼえます。",
-      "en": "I learn the expression ?Yen.?",
+      "ja": "このパンは百円です。",
+      "furigana": "このパンは{百円|ひゃくえん}です。",
+      "en": "This bread costs one hundred yen.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -531,9 +531,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~冊」ということばをおぼえます。",
-      "furigana": "「~{冊|さつ}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for books.?",
+      "ja": "図書館で本を二冊借りました。",
+      "furigana": "{図書館|としょかん}で{本|ほん}を{二冊|にさつ}{借|か}りました。",
+      "en": "I borrowed two books from the library.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -561,9 +561,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~分」ということばをおぼえます。",
-      "furigana": "「~{分|ふん}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ minutes.?",
+      "ja": "駅まで歩いて十分かかります。",
+      "furigana": "{駅|えき}まで{歩|ある}いて{十分|じゅうぶん}かかります。",
+      "en": "It takes ten minutes to walk to the station.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -591,9 +591,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~前」ということばをおぼえます。",
-      "furigana": "「~{前|まえ}」ということばをおぼえます。",
-      "en": "I learn the expression ?in front of ~.?",
+      "ja": "前年度の資料を参考に今年の案を作った。",
+      "furigana": "{前年度|ぜんねんど}の{資料|しりょう}を{参考|さんこう}に{今年|こんねん}の{案|あん}を{作|つく}った。",
+      "en": "I used last year's materials when preparing this year's proposal.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -621,9 +621,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~匹」ということばをおぼえます。",
-      "furigana": "「~{匹|ひき}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for small animals.?",
+      "ja": "家で猫を二匹飼っています。",
+      "furigana": "{家|いえ}で{猫|ねこ}を{二匹|にひき}{飼|か}っています。",
+      "en": "I have two cats at home.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -651,9 +651,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~台」ということばをおぼえます。",
-      "furigana": "「~{台|だい}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for vehicles; machines.?",
+      "ja": "駐車場に車が二台止まっています。",
+      "furigana": "{駐車場|ちゅうしゃじょう}に{車|くるま}が{二台|にだい}{止|と}まっています。",
+      "en": "Two cars are parked in the lot.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -681,9 +681,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~回」ということばをおぼえます。",
-      "furigana": "「~{回|かい}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for occurrences (~ times).?",
+      "ja": "この映画を三回見ました。",
+      "furigana": "この{映画|えいが}を{三回|さんかい}{見|み}ました。",
+      "en": "I have seen this movie three times.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -711,9 +711,9 @@
       "topic:n5_topics_filtered.json#shopping_erands"
     ],
     "example": {
-      "ja": "「~屋」ということばをおぼえます。",
-      "furigana": "「~{屋|や}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ shop.?",
+      "ja": "駅の近くの花屋で花を買いました。",
+      "furigana": "{駅|えき}の{近|ちか}くの{花屋|はなや}で{花|はな}を{買|か}いました。",
+      "en": "I bought flowers at a shop near the station.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -741,9 +741,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~年」ということばをおぼえます。",
-      "furigana": "「~{年|ねん}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ years.?",
+      "ja": "日本に二年住んでいます。",
+      "furigana": "{日本|にっぽん}に{二年|にねん}{住|す}んでいます。",
+      "en": "I have lived in Japan for two years.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -771,9 +771,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~度」ということばをおぼえます。",
-      "furigana": "「~{度|ど}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for occurrences; ~ degree; ~ point.?",
+      "ja": "休みの日に友達と公園へ行きました。",
+      "furigana": "{休|やす}みの{日|にち}に{友達|ともだち}と{公園|こうえん}へ{行|い}きました。",
+      "en": "I went to the park with a friend on my day off.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -801,9 +801,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~日」ということばをおぼえます。",
-      "furigana": "「~{日|にち}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ day of the month, for ~ days.?",
+      "ja": "休みを三日間取りました。",
+      "furigana": "{休|やす}みを{三日間|みっかかん}{取|と}りました。",
+      "en": "I took three days off.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -814,7 +814,7 @@
     "level": "N5",
     "word": "~時",
     "reading": "~じ",
-    "wordFurigana": "{~時|~じ}",
+    "wordFurigana": "~{時|じ}",
     "english": "~ o'clock (time)",
     "meanings": [
       "~ o'clock (time)"
@@ -830,9 +830,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~時」ということばをおぼえます。",
-      "furigana": "「{~時|~じ}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ o'clock (time).?",
+      "ja": "毎朝七時に家を出ます。",
+      "furigana": "{毎朝|まいあさ}{七時|しちじ}に{家|いえ}を{出|で}ます。",
+      "en": "I leave home at seven every morning.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -860,9 +860,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~時」ということばをおぼえます。",
-      "furigana": "「~{時|とき}」ということばをおぼえます。",
-      "en": "I learn the expression ?at the time of ~.?",
+      "ja": "毎朝七時に家を出ます。",
+      "furigana": "{毎朝|まいあさ}{七時|しちじ}に{家|いえ}を{出|で}ます。",
+      "en": "I leave home at seven every morning.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -890,9 +890,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~時間」ということばをおぼえます。",
-      "furigana": "「~{時間|じかん}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ hours.?",
+      "ja": "毎日二時間日本語を勉強します。",
+      "furigana": "{毎日|まいにち}{二時間|にじかん}{日本語|にほんご}を{勉強|べんきょう}します。",
+      "en": "I study Japanese for two hours every day.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -920,9 +920,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~月」ということばをおぼえます。",
-      "furigana": "「~{月|がつ}」ということばをおぼえます。",
-      "en": "I learn the expression ?month of year.?",
+      "ja": "日本では四月に新学期が始まります。",
+      "furigana": "{日本|にっぽん}では{四月|しがつ}に{新学期|しんがっき}が{始|はじ}まります。",
+      "en": "The new school year starts in April in Japan.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -950,9 +950,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~本」ということばをおぼえます。",
-      "furigana": "「~{本|ほん}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for long cylindrical things.?",
+      "ja": "水を二本買ってきました。",
+      "furigana": "{水|みず}を{二本|にほん}{買|か}ってきました。",
+      "en": "I bought two bottles of water.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -980,9 +980,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~杯」ということばをおぼえます。",
-      "furigana": "「~{杯|はい}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for cupfuls.?",
+      "ja": "食後にお茶を一杯飲みました。",
+      "furigana": "{食後|しょくご}にお{茶|ちゃ}を{一杯|いっぱい}{飲|の}みました。",
+      "en": "I had a cup of tea after the meal.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1010,9 +1010,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~枚」ということばをおぼえます。",
-      "furigana": "「~{枚|まい}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for flat things.?",
+      "ja": "申込書を三枚書いてください。",
+      "furigana": "{申込書|もうしこみしょ}を{三枚|さんまい}{書|か}いてください。",
+      "en": "Please fill out three application forms.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1023,7 +1023,7 @@
     "level": "N5",
     "word": "~歳",
     "reading": "~さい",
-    "wordFurigana": "{~歳|~さい}",
+    "wordFurigana": "~{歳|さい}",
     "english": "~ years old",
     "meanings": [
       "~ years old"
@@ -1040,9 +1040,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~歳」ということばをおぼえます。",
-      "furigana": "「{~歳|~さい}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ years old.?",
+      "ja": "妹は来月で十八歳になります。",
+      "furigana": "{妹|いもうと}は{来月|らいげつ}で{十八歳|じゅうろくさい}になります。",
+      "en": "My younger sister will turn eighteen next month.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1070,9 +1070,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~番」ということばをおぼえます。",
-      "furigana": "「~{番|ばん}」ということばをおぼえます。",
-      "en": "I learn the expression ?~st; ~th best.?",
+      "ja": "今年の一番好きな映画は何ですか。",
+      "furigana": "{今年|こんねん}の{一番好|いちばんす}きな{映画|えいが}は{何|なん}ですか。",
+      "en": "What is your favorite movie this year?",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1100,9 +1100,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~語」ということばをおぼえます。",
-      "furigana": "「~{語|ご}」ということばをおぼえます。",
-      "en": "I learn the expression ?word, language.?",
+      "ja": "旅行で役に立つ日本語を習っています。",
+      "furigana": "{旅行|りょこう}で{役|やく}に{立|た}つ{日本語|にほんご}を{習|なら}っています。",
+      "en": "I am learning Japanese that is useful for traveling.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1130,9 +1130,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~週間」ということばをおぼえます。",
-      "furigana": "「~{週間|しゅうかん}」ということばをおぼえます。",
-      "en": "I learn the expression ?~ weeks.?",
+      "ja": "このコースは二週間続きます。",
+      "furigana": "このコースは{二週間|にしゅうかん}{続|つづ}きます。",
+      "en": "This course lasts two weeks.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1160,9 +1160,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「~階」ということばをおぼえます。",
-      "furigana": "「~{階|かい}」ということばをおぼえます。",
-      "en": "I learn the expression ?counter for stories (floors) of a building.?",
+      "ja": "教室は建物の三階にあります。",
+      "furigana": "{教室|きょうしつ}は{建物|たてもの}の{三階|さんかい}にあります。",
+      "en": "The classroom is on the third floor.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1194,7 +1194,7 @@
     ],
     "example": {
       "ja": "ある人はこうだと言い、またある人はああだと言う。",
-      "furigana": "ある{人|にん}はこうだと{言い|いい}、またある{人|にん}はああだと{言う|いう}。",
+      "furigana": "ある{人|にん}はこうだと{言|い}い、またある{人|にん}はああだと{言|い}う。",
       "en": "One man says this, another that.",
       "source": "OpenJLPT/Tatoeba:229847",
       "generated": false
@@ -1377,7 +1377,7 @@
     ],
     "example": {
       "ja": "ねえあなたたち行かないで。",
-      "furigana": "ねえあなたたち{行か|いか}ないで。",
+      "furigana": "ねえあなたたち{行|い}かないで。",
       "en": "Don't go, dears.",
       "source": "OpenJLPT/Tatoeba:198640",
       "generated": false
@@ -1611,9 +1611,9 @@
       "pdf:VocabListN5.pdf:p3"
     ],
     "example": {
-      "ja": "これはあれです。",
-      "furigana": "これはあれです。",
-      "en": "This is that.",
+      "ja": "きょう、店であれを買いました。",
+      "furigana": "きょう、{店|みせ}であれを{買|か}いました。",
+      "en": "Today, I bought that.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1674,9 +1674,9 @@
       "pdf:VocabListN5.pdf:p3"
     ],
     "example": {
-      "ja": "これはとてもいい/よいです。",
-      "furigana": "これはとてもいい/よいです。",
-      "en": "This is very good.",
+      "ja": "この食べ物はとてもいい/よいです。",
+      "furigana": "この{食|た}べ{物|もの}はとてもいい/よいです。",
+      "en": "This food is very good.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1704,9 +1704,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはとてもいい; よいです。",
-      "furigana": "これはとてもいい; よいです。",
-      "en": "This is very good.",
+      "ja": "この食べ物はとてもいい; よいです。",
+      "furigana": "この{食|た}べ{物|もの}はとてもいい; よいです。",
+      "en": "This food is very good.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -1736,9 +1736,9 @@
       "pdf:VocabListN5.pdf:p3"
     ],
     "example": {
-      "ja": "「いいえ」とかれは言いました。",
-      "furigana": "「いいえ」とかれは{言い|いい}ました。",
-      "en": "He said, “no.”",
+      "ja": "「いいえ」と彼は言いました。",
+      "furigana": "「いいえ」と{彼|かれ}は{言|い}いました。",
+      "en": "He said, \"no.\"",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -2177,7 +2177,7 @@
     ],
     "example": {
       "ja": "教会は私の家とあなたの家の中にあります。",
-      "furigana": "{教会|きょうかい}は{私|わたし}の{家|いえ}とあなたの{家|いえ}の{中に|なかに}あります。",
+      "furigana": "{教会|きょうかい}は{私|わたし}の{家|いえ}とあなたの{家|いえ}の{中|なか}にあります。",
       "en": "The church is between my house and yours.",
       "source": "OpenJLPT/Tatoeba:180221",
       "generated": false
@@ -2237,9 +2237,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "「お~」ということばをおぼえます。",
-      "furigana": "「お~」ということばをおぼえます。",
-      "en": "I learn the expression ?honorable ~ (honorific).?",
+      "ja": "休みの日に友達と公園へ行きました。",
+      "furigana": "{休|やす}みの{日|にち}に{友達|ともだち}と{公園|こうえん}へ{行|い}きました。",
+      "en": "I went to the park with a friend on my day off.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -2315,7 +2315,7 @@
     ],
     "example": {
       "ja": "何かおなかに入れてから出かけなさい。",
-      "furigana": "{何か|なにか}おなかに{入れ|いれ}てから{出か|でか}けなさい。",
+      "furigana": "{何|なに}かおなかに{入|い}れてから{出|で}かけなさい。",
       "en": "You should put something in your stomach before you go.",
       "source": "OpenJLPT/Tatoeba:188135",
       "generated": false
@@ -2484,7 +2484,7 @@
     "level": "N5",
     "word": "お兄さん",
     "reading": "おにいさん",
-    "wordFurigana": "お{兄さん|にいさん}",
+    "wordFurigana": "お{兄|にい}さん",
     "english": "(honorable) older brother",
     "meanings": [
       "(honorable) older brother",
@@ -2519,7 +2519,7 @@
     "level": "N5",
     "word": "お姉さん",
     "reading": "おねえさん",
-    "wordFurigana": "お{姉さん|ねえさん}",
+    "wordFurigana": "お{姉|ねえ}さん",
     "english": "(honorable) older sister",
     "meanings": [
       "(honorable) older sister",
@@ -2580,7 +2580,7 @@
     ],
     "example": {
       "ja": "彼は今日、お弁当を持って来た。",
-      "furigana": "{彼は|かれは}{今日|きょう}、お{弁当|べんとう}を{持っ|もっ}て{来た|きた}。",
+      "furigana": "{彼|かれ}は{今日|きょう}、お{弁当|べんとう}を{持|も}って{来|き}た。",
       "en": "He brought his lunch today.",
       "source": "OpenJLPT/Tatoeba:107100",
       "generated": false
@@ -2592,7 +2592,7 @@
     "level": "N5",
     "word": "お手洗い",
     "reading": "おてあらい",
-    "wordFurigana": "お{手洗い|てあらい}",
+    "wordFurigana": "お{手洗|てあら}い",
     "english": "bathroom",
     "meanings": [
       "bathroom",
@@ -2635,7 +2635,7 @@
     "level": "N5",
     "word": "お母さん",
     "reading": "おかあさん",
-    "wordFurigana": "お{母さん|かあさん}",
+    "wordFurigana": "お{母|かあ}さん",
     "english": "(honorable) mother",
     "meanings": [
       "(honorable) mother",
@@ -2670,7 +2670,7 @@
     "level": "N5",
     "word": "お父さん",
     "reading": "おとうさん",
-    "wordFurigana": "お{父さん|とうさん}",
+    "wordFurigana": "お{父|とう}さん",
     "english": "(honorable) father",
     "meanings": [
       "(honorable) father",
@@ -2741,7 +2741,7 @@
     "level": "N5",
     "word": "お祖父さん",
     "reading": "おじいさん",
-    "wordFurigana": "{お祖父さん|おじいさん}",
+    "wordFurigana": "お{祖父|じい}さん",
     "english": "grandfather",
     "meanings": [
       "grandfather",
@@ -2894,7 +2894,7 @@
     "level": "N5",
     "word": "お金",
     "reading": "おかね",
-    "wordFurigana": "{お金|おかね}",
+    "wordFurigana": "お{金|かね}",
     "english": "money",
     "meanings": [
       "money"
@@ -2928,7 +2928,7 @@
     "level": "N5",
     "word": "お願いします",
     "reading": "おねがいします",
-    "wordFurigana": "お{願い|ねがい}します",
+    "wordFurigana": "お{願|ねが}いします",
     "english": "please",
     "meanings": [
       "please",
@@ -3180,9 +3180,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "わたしはかぶる。",
-      "furigana": "わたしはかぶる。",
-      "en": "I wear, to put on (e.g., a hat on the head)",
+      "ja": "毎日、私はかぶることができます。",
+      "furigana": "{毎日|まいにち}、{私|わたし}はかぶることができます。",
+      "en": "I can wear, to put on (e.g., a hat on the head).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -3247,9 +3247,9 @@
       "pdf:VocabListN5.pdf:p10"
     ],
     "example": {
-      "ja": "これはきゅう / くです。",
-      "furigana": "これはきゅう / くです。",
-      "en": "This is Nine.",
+      "ja": "きょう、店できゅう / くを買いました。",
+      "furigana": "きょう、{店|みせ}できゅう / くを{買|か}いました。",
+      "en": "Today, I bought Nine.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -3354,9 +3354,9 @@
       "pdf:VocabListN5.pdf:p12"
     ],
     "example": {
-      "ja": "これはここです。",
-      "furigana": "これはここです。",
-      "en": "This is here.",
+      "ja": "きょう、店でここを買いました。",
+      "furigana": "きょう、{店|みせ}でここを{買|か}いました。",
+      "en": "Today, I bought here.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -3789,9 +3789,9 @@
       "pdf:VocabListN5.pdf:p14"
     ],
     "example": {
-      "ja": "これはし / よんです。",
-      "furigana": "これはし / よんです。",
-      "en": "This is Four.",
+      "ja": "きょう、店でし / よんを買いました。",
+      "furigana": "きょう、{店|みせ}でし / よんを{買|か}いました。",
+      "en": "Today, I bought Four.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -3853,9 +3853,9 @@
       "pdf:VocabListN5.pdf:p14"
     ],
     "example": {
-      "ja": "これはしち / ななです。",
-      "furigana": "これはしち / ななです。",
-      "en": "This is Seven.",
+      "ja": "きょう、店でしち / ななを買いました。",
+      "furigana": "きょう、{店|みせ}でしち / ななを{買|か}いました。",
+      "en": "Today, I bought Seven.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -3949,9 +3949,9 @@
       "pdf:VocabListN5.pdf:p15"
     ],
     "example": {
-      "ja": "これはじゃ/じゃあです。",
-      "furigana": "これはじゃ/じゃあです。",
-      "en": "This is well then….",
+      "ja": "きょう、店でじゃ/じゃあを買いました。",
+      "furigana": "きょう、{店|みせ}でじゃ/じゃあを{買|か}いました。",
+      "en": "Today, I bought well then….",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -3979,9 +3979,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはじゃ; じゃあです。",
-      "furigana": "これはじゃ; じゃあです。",
-      "en": "This is well, well then.",
+      "ja": "きょう、店でじゃ; じゃあを買いました。",
+      "furigana": "きょう、{店|みせ}でじゃ; じゃあを{買|か}いました。",
+      "en": "Today, I bought well, well then.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -4192,9 +4192,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはそう; そうですです。",
-      "furigana": "これはそう; そうですです。",
-      "en": "This is yes; appears, to be the case.",
+      "ja": "きょう、店でそう; そうですを買いました。",
+      "furigana": "きょう、{店|みせ}でそう; そうですを{買|か}いました。",
+      "en": "Today, I bought yes; appears, to be the case.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -4257,9 +4257,9 @@
       "pdf:VocabListN5.pdf:p17"
     ],
     "example": {
-      "ja": "これはそうして/そしてです。",
-      "furigana": "これはそうして/そしてです。",
-      "en": "This is And.",
+      "ja": "きょう、店でそうして/そしてを買いました。",
+      "furigana": "きょう、{店|みせ}でそうして/そしてを{買|か}いました。",
+      "en": "Today, I bought And.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -4284,9 +4284,9 @@
       "csv:n5.csv"
     ],
     "example": {
-      "ja": "これはそうして; そしてです。",
-      "furigana": "これはそうして; そしてです。",
-      "en": "This is and, like that.",
+      "ja": "きょう、店でそうして; そしてを買いました。",
+      "furigana": "きょう、{店|みせ}でそうして; そしてを{買|か}いました。",
+      "en": "Today, I bought and, like that.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -4428,9 +4428,9 @@
       "pdf:VocabListN5.pdf:p17"
     ],
     "example": {
-      "ja": "これはそのです。",
-      "furigana": "これはそのです。",
-      "en": "This is that.",
+      "ja": "きょう、店でそのを買いました。",
+      "furigana": "きょう、{店|みせ}でそのを{買|か}いました。",
+      "en": "Today, I bought that.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -5204,9 +5204,9 @@
       "pdf:VocabListN5.pdf:p21"
     ],
     "example": {
-      "ja": "わたしはどう行きます。",
-      "furigana": "わたしはどう{行き|いき}ます。",
-      "en": "I go how.",
+      "ja": "ゆっくりどう歩いてください。",
+      "furigana": "ゆっくりどう{歩|ある}いてください。",
+      "en": "Please walk slowly. how.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -5570,9 +5570,9 @@
       "pdf:VocabListN5.pdf:p23"
     ],
     "example": {
-      "ja": "これはどれです。",
-      "furigana": "これはどれです。",
-      "en": "This is which (of three or more).",
+      "ja": "きょう、店でどれを買いました。",
+      "furigana": "きょう、{店|みせ}でどれを{買|か}いました。",
+      "en": "Today, I bought which (of three or more).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -5632,9 +5632,9 @@
       "csv:n5.csv"
     ],
     "example": {
-      "ja": "これはとてもないです。",
-      "furigana": "これはとてもないです。",
-      "en": "This is very there isn't, doesn't have.",
+      "ja": "この食べ物はとてもないです。",
+      "furigana": "この{食|た}べ{物|もの}はとてもないです。",
+      "en": "This food is very there isn't, doesn't have.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -5770,9 +5770,9 @@
       "pdf:VocabListN5.pdf:p23"
     ],
     "example": {
-      "ja": "これはなん/なにです。",
-      "furigana": "これはなん/なにです。",
-      "en": "This is what.",
+      "ja": "きょう、店でなん/なにを買いました。",
+      "furigana": "きょう、{店|みせ}でなん/なにを{買|か}いました。",
+      "en": "Today, I bought what.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -6067,9 +6067,9 @@
       "pdf:VocabListN5.pdf:p29"
     ],
     "example": {
-      "ja": "これはまいげつ/まいつきです。",
-      "furigana": "これはまいげつ/まいつきです。",
-      "en": "This is every month.",
+      "ja": "きょう、店でまいげつ/まいつきを買いました。",
+      "furigana": "きょう、{店|みせ}でまいげつ/まいつきを{買|か}いました。",
+      "en": "Today, I bought every month.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -6094,9 +6094,9 @@
       "pdf:VocabListN5.pdf:p29"
     ],
     "example": {
-      "ja": "これはまいねん/まいとしです。",
-      "furigana": "これはまいねん/まいとしです。",
-      "en": "This is every year.",
+      "ja": "きょう、店でまいねん/まいとしを買いました。",
+      "furigana": "きょう、{店|みせ}でまいねん/まいとしを{買|か}いました。",
+      "en": "Today, I bought every year.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -6398,9 +6398,9 @@
       "topic:n5_topics.json#daily_life"
     ],
     "example": {
-      "ja": "これはもしもしです。",
-      "furigana": "これはもしもしです。",
-      "en": "This is Hello? (used on the phone).",
+      "ja": "きょう、店でもしもしを買いました。",
+      "furigana": "きょう、{店|みせ}でもしもしを{買|か}いました。",
+      "en": "Today, I bought Hello? (used on the phone).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -6609,9 +6609,9 @@
       "pdf:VocabListN5.pdf:p34"
     ],
     "example": {
-      "ja": "これはより、ほうです。",
-      "furigana": "これはより、ほうです。",
-      "en": "This is Used for comparison.",
+      "ja": "きょう、店でより、ほうを買いました。",
+      "furigana": "きょう、{店|みせ}でより、ほうを{買|か}いました。",
+      "en": "Today, I bought Used for comparison.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -6650,7 +6650,7 @@
     ],
     "example": {
       "ja": "どうもごりっぱな言いわけだよ。",
-      "furigana": "どうもごりっぱな{言い|いい}わけだよ。",
+      "furigana": "どうもごりっぱな{言|い}いわけだよ。",
       "en": "That is a fine excuse.",
       "source": "OpenJLPT/Tatoeba:201196",
       "generated": false
@@ -6918,9 +6918,9 @@
       "pdf:VocabListN5.pdf:p10"
     ],
     "example": {
-      "ja": "これはキロ/キログラムです。",
-      "furigana": "これはキロ/キログラムです。",
-      "en": "This is Kilogram.",
+      "ja": "きょう、店でキロ/キログラムを買いました。",
+      "furigana": "きょう、{店|みせ}でキロ/キログラムを{買|か}いました。",
+      "en": "Today, I bought Kilogram.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -6945,9 +6945,9 @@
       "pdf:VocabListN5.pdf:p11"
     ],
     "example": {
-      "ja": "これはキロ/キロメートルです。",
-      "furigana": "これはキロ/キロメートルです。",
-      "en": "This is Kilometer.",
+      "ja": "きょう、店でキロ/キロメートルを買いました。",
+      "furigana": "きょう、{店|みせ}でキロ/キロメートルを{買|か}いました。",
+      "en": "Today, I bought Kilometer.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -6975,9 +6975,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはキロ; キログラムです。",
-      "furigana": "これはキロ; キログラムです。",
-      "en": "This is (abbr.) kilo (kilogram).",
+      "ja": "きょう、店でキロ; キログラムを買いました。",
+      "furigana": "きょう、{店|みせ}でキロ; キログラムを{買|か}いました。",
+      "en": "Today, I bought (abbr.) kilo (kilogram).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -7005,9 +7005,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはキロ; キロメートルです。",
-      "furigana": "これはキロ; キロメートルです。",
-      "en": "This is (abbr.) kilo (kilometer).",
+      "ja": "きょう、店でキロ; キロメートルを買いました。",
+      "furigana": "きょう、{店|みせ}でキロ; キロメートルを{買|か}いました。",
+      "en": "Today, I bought (abbr.) kilo (kilometer).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -7143,9 +7143,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはコップです。",
-      "furigana": "これはコップです。",
-      "en": "This is a glass.",
+      "ja": "きょう、店でコップを買いました。",
+      "furigana": "きょう、{店|みせ}でコップを{買|か}いました。",
+      "en": "Today, I bought a glass.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -8123,7 +8123,7 @@
     ],
     "example": {
       "ja": "バス通学と積極的差別是正措置などが論争の多い話題だった。",
-      "furigana": "バス{通学|つうがく}と{積極的|せっきょくてき}{差別|さべつ}{是正|ぜせい}{措置|そち}などが{論争|ろんそう}の{多い|おおい}{話題|わだい}だった。",
+      "furigana": "バス{通学|つうがく}と{積極的|せっきょくてき}{差別|さべつ}{是正|ぜせい}{措置|そち}などが{論争|ろんそう}の{多|おお}い{話題|わだい}だった。",
       "en": "School busing and taking a proactive stance against discrimination were hotly debated topics.",
       "source": "OpenJLPT/Tatoeba:77225",
       "generated": false
@@ -8190,9 +8190,9 @@
       "topic:n5_topics_filtered.json#food_drink"
     ],
     "example": {
-      "ja": "これはパンです。",
-      "furigana": "これはパンです。",
-      "en": "This is bread.",
+      "ja": "きょう、店でパンを買いました。",
+      "furigana": "きょう、{店|みせ}でパンを{買|か}いました。",
+      "en": "Today, I bought bread.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -8294,9 +8294,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはフォークです。",
-      "furigana": "これはフォークです。",
-      "en": "This is fork.",
+      "ja": "きょう、店でフォークを買いました。",
+      "furigana": "きょう、{店|みせ}でフォークを{買|か}いました。",
+      "en": "Today, I bought fork.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -8709,7 +8709,7 @@
     ],
     "example": {
       "ja": "前の人から1メートル離れて並んでください。",
-      "furigana": "{前|まえ}の{人|にん}から1メートル{離れ|はなれ}て{並ん|ならん}でください。",
+      "furigana": "{前|まえ}の{人|にん}から1メートル{離|はな}れて{並|なら}んでください。",
       "en": "Form a line, keeping one meter away from the person in front of you.",
       "source": "OpenJLPT/Tatoeba:140982",
       "generated": false
@@ -8772,9 +8772,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはラジオカセです。",
-      "furigana": "これはラジオカセです。",
-      "en": "This is radio cassette player.",
+      "ja": "きょう、店でラジオカセを買いました。",
+      "furigana": "きょう、{店|みせ}でラジオカセを{買|か}いました。",
+      "en": "Today, I bought radio cassette player.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -8804,7 +8804,7 @@
     ],
     "example": {
       "ja": "確かに今の日本では、「ラジカセ」はもう古い言葉なのかもしれない。",
-      "furigana": "{確かに|たしかに}{今|いま}の{日本|にっぽん}では、「ラジカセ」はもう{古い|ふるい}{言葉|ことば}なのかもしれない。",
+      "furigana": "{確|たし}かに{今|いま}の{日本|にっぽん}では、「ラジカセ」はもう{古|ふる}い{言葉|ことば}なのかもしれない。",
       "en": "The word \"raji-kase\", meaning radio cassette in Japan, is probably more of an antiquated term by now.",
       "source": "OpenJLPT/Tatoeba:1174918",
       "generated": false
@@ -8830,9 +8830,9 @@
       "pdf:VocabListN5.pdf:p33"
     ],
     "example": {
-      "ja": "これはラジカセ /ラジオカセットです。",
-      "furigana": "これはラジカセ /ラジオカセットです。",
-      "en": "This is radio cassette player.",
+      "ja": "きょう、店でラジカセ /ラジオカセットを買いました。",
+      "furigana": "きょう、{店|みせ}でラジカセ /ラジオカセットを{買|か}いました。",
+      "en": "Today, I bought radio cassette player.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -8984,7 +8984,7 @@
     "level": "N5",
     "word": "一つ",
     "reading": "ひとつ",
-    "wordFurigana": "{一つ|ひとつ}",
+    "wordFurigana": "{一|ひと}つ",
     "english": "one",
     "meanings": [
       "one",
@@ -9108,9 +9108,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは一日です。",
-      "furigana": "これは{一日|ついたち}です。",
-      "en": "This is one day; first day of the month.",
+      "ja": "きょう、店で一日を買いました。",
+      "furigana": "きょう、{店|みせ}で{一日|ついたち}を{買|か}いました。",
+      "en": "Today, I bought one day; first day of the month.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -9148,7 +9148,7 @@
     ],
     "example": {
       "ja": "彼女は、一昨年よりもはるかに暮らし向きがよい。",
-      "furigana": "{彼女|かのじょ}は、{一昨年|いっさくねん}よりもはるかに{暮らし|くらし}{向き|むき}がよい。",
+      "furigana": "{彼女|かのじょ}は、{一昨年|いっさくねん}よりもはるかに{暮|く}らし{向|む}きがよい。",
       "en": "She's far better off than she was the year before last.",
       "source": "OpenJLPT/Tatoeba:93768",
       "generated": false
@@ -9303,7 +9303,7 @@
     "level": "N5",
     "word": "七つ",
     "reading": "ななつ",
-    "wordFurigana": "{七つ|ななつ}",
+    "wordFurigana": "{七|なな}つ",
     "english": "seven",
     "meanings": [
       "seven",
@@ -9501,20 +9501,20 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "二、三デメリットがありますね。",
-      "furigana": "{二、三|にさん}デメリットがありますね。",
-      "en": "There are a few disadvantages to it.",
-      "source": "OpenJLPT/Tatoeba:123182",
+      "ja": "この本は三千円する。",
+      "furigana": "この{本|ほん}は{三千円|さんぜんえん}する。",
+      "en": "This book costs 3,000 yen.",
+      "source": "OpenJLPT/Tatoeba:219631",
       "generated": false
     },
-    "exampleSource": "OpenJLPT/Tatoeba:123182"
+    "exampleSource": "OpenJLPT/Tatoeba:219631"
   },
   {
     "id": "b36b221d33",
     "level": "N5",
     "word": "三つ",
     "reading": "みっつ",
-    "wordFurigana": "{三つ|みっつ}",
+    "wordFurigana": "{三|みっ}つ",
     "english": "three",
     "meanings": [
       "three",
@@ -9620,7 +9620,7 @@
     "level": "N5",
     "word": "上げる",
     "reading": "あげる",
-    "wordFurigana": "{上げ|あげ}る",
+    "wordFurigana": "{上|あ}げる",
     "english": "to give",
     "meanings": [
       "to give",
@@ -9770,7 +9770,7 @@
     "level": "N5",
     "word": "下さい",
     "reading": "ください",
-    "wordFurigana": "{下さい|ください}",
+    "wordFurigana": "{下|くだ}さい",
     "english": "(with te-form verb) please do for me",
     "meanings": [
       "(with te-form verb) please do for me"
@@ -9787,9 +9787,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これはとても下さいです。",
-      "furigana": "これはとても{下さい|ください}です。",
-      "en": "This is very (with te-form verb) please do for me.",
+      "ja": "この食べ物はとても下さいです。",
+      "furigana": "この{食|た}べ{物|もの}はとても{下|くだ}さいです。",
+      "en": "This food is very (with te-form verb) please do for me.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -9871,7 +9871,7 @@
     "level": "N5",
     "word": "並ぶ",
     "reading": "ならぶ",
-    "wordFurigana": "{並ぶ|ならぶ}",
+    "wordFurigana": "{並|なら}ぶ",
     "english": "to line up",
     "meanings": [
       "to line up",
@@ -9909,7 +9909,7 @@
     "level": "N5",
     "word": "並べる",
     "reading": "ならべる",
-    "wordFurigana": "{並べ|ならべ}る",
+    "wordFurigana": "{並|なら}べる",
     "english": "to line up",
     "meanings": [
       "to line up",
@@ -9982,7 +9982,7 @@
     "level": "N5",
     "word": "丸い",
     "reading": "まるい",
-    "wordFurigana": "{丸い|まるい}",
+    "wordFurigana": "{丸|まる}い",
     "english": "round",
     "meanings": [
       "round",
@@ -10022,7 +10022,7 @@
     "level": "N5",
     "word": "丸い/円いまるい",
     "reading": "まるい/まるいまるい",
-    "wordFurigana": "{丸い|まるい}/{円い|まるい}まるい",
+    "wordFurigana": "{丸|まる}い/{円|まるいまる}いまるい",
     "english": "round,circular",
     "meanings": [
       "round,circular"
@@ -10036,9 +10036,9 @@
       "pdf:VocabListN5.pdf:p30"
     ],
     "example": {
-      "ja": "これはとても丸い/円いまるいです。",
-      "furigana": "これはとても{丸い|まるい}/{円い|まるい}まるいです。",
-      "en": "This is very round,circular.",
+      "ja": "この食べ物はとても丸い/円いまるいです。",
+      "furigana": "この{食|た}べ{物|もの}はとても{丸|まる}い/{円|まるいまる}いまるいです。",
+      "en": "This food is very round,circular.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -10049,7 +10049,7 @@
     "level": "N5",
     "word": "乗る",
     "reading": "のる",
-    "wordFurigana": "{乗る|のる}",
+    "wordFurigana": "{乗|の}る",
     "english": "to get on",
     "meanings": [
       "to get on",
@@ -10109,7 +10109,7 @@
     ],
     "example": {
       "ja": "彼は「九時だ」と言った。",
-      "furigana": "{彼は|かれは}「{九時|くじ}だ」と{言った|いった}。",
+      "furigana": "{彼|かれ}は「{九時|くじ}だ」と{言|い}った。",
       "en": "He said, \"It's nine o'clock.\"",
       "source": "OpenJLPT/Tatoeba:108121",
       "generated": false
@@ -10140,9 +10140,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは九です。",
-      "furigana": "これは{九|く}です。",
-      "en": "This is nine.",
+      "ja": "きょう、店で九を買いました。",
+      "furigana": "きょう、{店|みせ}で{九|く}を{買|か}いました。",
+      "en": "Today, I bought nine.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -10153,7 +10153,7 @@
     "level": "N5",
     "word": "九つ",
     "reading": "ここのつ",
-    "wordFurigana": "{九つ|ここのつ}",
+    "wordFurigana": "{九|ここの}つ",
     "english": "nine",
     "meanings": [
       "nine",
@@ -10213,7 +10213,7 @@
     ],
     "example": {
       "ja": "スピーチコンテストは１１月９日に行われた。",
-      "furigana": "スピーチコンテストは１１{月|がつ}９{日|にち}に{行わ|おこなわ}れた。",
+      "furigana": "スピーチコンテストは１１{月|がつ}９{日|にち}に{行|おこな}われた。",
       "en": "The speech contest took place on the ninth of November.",
       "source": "OpenJLPT/Tatoeba:214544",
       "generated": false
@@ -10247,7 +10247,7 @@
     ],
     "example": {
       "ja": "このホールには人が二千人入れる。",
-      "furigana": "このホールには{人|にん}が{二千|にせん}{人|にん}{入れ|いれ}る。",
+      "furigana": "このホールには{人|にん}が{二千|にせん}{人|にん}{入|い}れる。",
       "en": "Two thousand people fit into this hall.",
       "source": "OpenJLPT/Tatoeba:223188",
       "generated": false
@@ -10259,7 +10259,7 @@
     "level": "N5",
     "word": "二つ",
     "reading": "ふたつ",
-    "wordFurigana": "{二つ|ふたつ}",
+    "wordFurigana": "{二|ふた}つ",
     "english": "two",
     "meanings": [
       "two",
@@ -10430,7 +10430,7 @@
     ],
     "example": {
       "ja": "それは１週間前、すなわち４月２日に行われた。",
-      "furigana": "それは１{週間前|しゅうかんまえ}、すなわち４{月|がつ}２{日|にち}に{行わ|おこなわ}れた。",
+      "furigana": "それは１{週間前|しゅうかんまえ}、すなわち４{月|がつ}２{日|にち}に{行|おこな}われた。",
       "en": "It was due a week ago, namely on April second.",
       "source": "OpenJLPT/Tatoeba:205590",
       "generated": false
@@ -10476,7 +10476,7 @@
     "level": "N5",
     "word": "五つ",
     "reading": "いつつ",
-    "wordFurigana": "{五つ|いつつ}",
+    "wordFurigana": "{五|いつ}つ",
     "english": "five",
     "meanings": [
       "five",
@@ -10939,7 +10939,7 @@
     "level": "N5",
     "word": "休み",
     "reading": "やすみ",
-    "wordFurigana": "{休み|やすみ}",
+    "wordFurigana": "{休|やす}み",
     "english": "rest",
     "meanings": [
       "rest",
@@ -10976,7 +10976,7 @@
     "level": "N5",
     "word": "休む",
     "reading": "やすむ",
-    "wordFurigana": "{休む|やすむ}",
+    "wordFurigana": "{休|やす}む",
     "english": "to rest",
     "meanings": [
       "to rest",
@@ -11012,7 +11012,7 @@
     "level": "N5",
     "word": "会う",
     "reading": "あう",
-    "wordFurigana": "{会う|あう}",
+    "wordFurigana": "{会|あ}う",
     "english": "to meet",
     "meanings": [
       "to meet",
@@ -11123,7 +11123,7 @@
     "level": "N5",
     "word": "伯母さん/叔母さんおばさん",
     "reading": "おばさん/おばさんおばさん",
-    "wordFurigana": "{伯母|おば}さん/{叔母|おば}さんおばさん",
+    "wordFurigana": "{伯母|おば}さん/{叔母|おばさんおば}さんおばさん",
     "english": "Aunt",
     "meanings": [
       "Aunt"
@@ -11137,9 +11137,9 @@
       "pdf:VocabListN5.pdf:p7"
     ],
     "example": {
-      "ja": "これは伯母さん/叔母さんおばさんです。",
-      "furigana": "これは{伯母|おば}さん/{叔母|おば}さんおばさんです。",
-      "en": "This is Aunt.",
+      "ja": "きょう、店で伯母さん/叔母さんおばさんを買いました。",
+      "furigana": "きょう、{店|みせ}で{伯母|おば}さん/{叔母|おばさんおば}さんおばさんを{買|か}いました。",
+      "en": "Today, I bought Aunt.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -11164,9 +11164,9 @@
       "pdf:VocabListN5.pdf:p6"
     ],
     "example": {
-      "ja": "これは伯父/叔父おじいさんです。",
-      "furigana": "これは{伯父|おじ}/{叔父|おじ}おじいさんです。",
-      "en": "This is grandfather, male senior citizen.",
+      "ja": "きょう、店で伯父/叔父おじいさんを買いました。",
+      "furigana": "きょう、{店|みせ}で{伯父|おじ}/{叔父|おじ}おじいさんを{買|か}いました。",
+      "en": "Today, I bought grandfather, male senior citizen.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -11191,9 +11191,9 @@
       "pdf:VocabListN5.pdf:p6"
     ],
     "example": {
-      "ja": "これは伯父/叔父おじさんです。",
-      "furigana": "これは{伯父|おじ}/{叔父|おじ}おじさんです。",
-      "en": "This is uncle, middle aged gentleman.",
+      "ja": "きょう、店で伯父/叔父おじさんを買いました。",
+      "furigana": "きょう、{店|みせ}で{伯父|おじ}/{叔父|おじ}おじさんを{買|か}いました。",
+      "en": "Today, I bought uncle, middle aged gentleman.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -11204,7 +11204,7 @@
     "level": "N5",
     "word": "伯父; 叔父さん",
     "reading": "おじさん",
-    "wordFurigana": "{伯父; 叔父さん|おじさん}",
+    "wordFurigana": "{伯父|おじ}; {叔父|おじ}さん",
     "english": "uncle, middle-aged man",
     "meanings": [
       "uncle, middle-aged man"
@@ -11221,9 +11221,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは伯父; 叔父さんです。",
-      "furigana": "これは{伯父; 叔父さん|おじさん}です。",
-      "en": "This is uncle, middle-aged man.",
+      "ja": "きょう、店で伯父; 叔父さんを買いました。",
+      "furigana": "きょう、{店|みせ}で{伯父|おじ}; {叔父|おじ}さんを{買|か}いました。",
+      "en": "Today, I bought uncle, middle-aged man.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -11234,7 +11234,7 @@
     "level": "N5",
     "word": "低い",
     "reading": "ひくい",
-    "wordFurigana": "{低い|ひくい}",
+    "wordFurigana": "{低|ひく}い",
     "english": "short",
     "meanings": [
       "short",
@@ -11271,7 +11271,7 @@
     "level": "N5",
     "word": "住む",
     "reading": "すむ",
-    "wordFurigana": "{住む|すむ}",
+    "wordFurigana": "{住|す}む",
     "english": "to live in",
     "meanings": [
       "to live in",
@@ -11366,7 +11366,7 @@
     ],
     "example": {
       "ja": "学校の前に何本か木が見えます。",
-      "furigana": "{学校|がっこう}の{前|まえ}に{何本|なんぼん}か{木|き}が{見え|みえ}ます。",
+      "furigana": "{学校|がっこう}の{前|まえ}に{何本|なんぼん}か{木|き}が{見|み}えます。",
       "en": "You see some trees in front of the school.",
       "source": "OpenJLPT/Tatoeba:184431",
       "generated": false
@@ -11378,7 +11378,7 @@
     "level": "N5",
     "word": "何",
     "reading": "なん; なに",
-    "wordFurigana": "{何|なん; なに}",
+    "wordFurigana": "{何|なん}",
     "english": "what",
     "meanings": [
       "what"
@@ -11392,9 +11392,9 @@
       "csv:n5.csv"
     ],
     "example": {
-      "ja": "これは何です。",
-      "furigana": "これは{何|なん; なに}です。",
-      "en": "This is what.",
+      "ja": "きょう、店で何を買いました。",
+      "furigana": "きょう、{店|みせ}で{何|なん}を{買|か}いました。",
+      "en": "Today, I bought what.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -11405,7 +11405,7 @@
     "level": "N5",
     "word": "何~",
     "reading": "なん~",
-    "wordFurigana": "{何~|なん~}",
+    "wordFurigana": "{何|なん}~",
     "english": "what sort of ~",
     "meanings": [
       "what sort of ~"
@@ -11419,9 +11419,9 @@
       "csv:n5.csv"
     ],
     "example": {
-      "ja": "「何~」ということばをおぼえます。",
-      "furigana": "「{何~|なん~}」ということばをおぼえます。",
-      "en": "I learn the expression ?what sort of ~.?",
+      "ja": "休みの日に友達と公園へ行きました。",
+      "furigana": "{休|やす}みの{日|にち}に{友達|ともだち}と{公園|こうえん}へ{行|い}きました。",
+      "en": "I went to the park with a friend on my day off.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -11432,7 +11432,7 @@
     "level": "N5",
     "word": "作る",
     "reading": "つくる",
-    "wordFurigana": "{作る|つくる}",
+    "wordFurigana": "{作|つく}る",
     "english": "to make",
     "meanings": [
       "to make",
@@ -11507,7 +11507,7 @@
     "level": "N5",
     "word": "使う",
     "reading": "つかう",
-    "wordFurigana": "{使う|つかう}",
+    "wordFurigana": "{使|つか}う",
     "english": "to use",
     "meanings": [
       "to use"
@@ -11579,7 +11579,7 @@
     "level": "N5",
     "word": "借りる",
     "reading": "かりる",
-    "wordFurigana": "{借り|かり}る",
+    "wordFurigana": "{借|か}りる",
     "english": "to borrow",
     "meanings": [
       "to borrow",
@@ -11650,7 +11650,7 @@
     "level": "N5",
     "word": "働く",
     "reading": "はたらく",
-    "wordFurigana": "{働く|はたらく}",
+    "wordFurigana": "{働|はたら}く",
     "english": "to work",
     "meanings": [
       "to work"
@@ -11822,7 +11822,7 @@
     ],
     "example": {
       "ja": "それから先の話を聞きたい。",
-      "furigana": "それから{先の|さきの}{話|はなし}を{聞き|きき}たい。",
+      "furigana": "それから{先|さき}の{話|はなし}を{聞|き}きたい。",
       "en": "I'd like to know the rest of the story.",
       "source": "OpenJLPT/Tatoeba:205916",
       "generated": false
@@ -11948,7 +11948,7 @@
     "level": "N5",
     "word": "入る",
     "reading": "はいる",
-    "wordFurigana": "{入る|はいる}",
+    "wordFurigana": "{入|はい}る",
     "english": "to enter",
     "meanings": [
       "to enter",
@@ -11986,7 +11986,7 @@
     "level": "N5",
     "word": "入れる",
     "reading": "いれる",
-    "wordFurigana": "{入れ|いれ}る",
+    "wordFurigana": "{入|い}れる",
     "english": "to put in",
     "meanings": [
       "to put in"
@@ -12043,7 +12043,7 @@
     ],
     "example": {
       "ja": "１台の車が入り口に止まった。",
-      "furigana": "１{台|だい}の{車|くるま}が{入り口|いりぐち}に{止ま|とま}った。",
+      "furigana": "１{台|だい}の{車|くるま}が{入|い}り{口|ぐち}に{止|と}まった。",
       "en": "A car stopped at the entrance.",
       "source": "OpenJLPT/Tatoeba:235719",
       "generated": false
@@ -12126,7 +12126,7 @@
     "level": "N5",
     "word": "八つ",
     "reading": "やっつ",
-    "wordFurigana": "{八つ|やっつ}",
+    "wordFurigana": "{八|やっ}つ",
     "english": "eight",
     "meanings": [
       "eight",
@@ -12186,7 +12186,7 @@
     ],
     "example": {
       "ja": "学校は４月８日から始まります。",
-      "furigana": "{学校|がっこう}は４{月|がつ}８{日|にち}から{始まり|はじまり}ます。",
+      "furigana": "{学校|がっこう}は４{月|がつ}８{日|にち}から{始|はじ}まります。",
       "en": "School begins on April 8.",
       "source": "OpenJLPT/Tatoeba:184424",
       "generated": false
@@ -12289,7 +12289,7 @@
     ],
     "example": {
       "ja": "私は毎朝六時に起きます。",
-      "furigana": "{私|わたし}は{毎朝|まいあさ}{六|ろく}{時に|ときに}{起き|おき}ます。",
+      "furigana": "{私|わたし}は{毎朝|まいあさ}{六|ろく}{時|とき}に{起|お}きます。",
       "en": "I get up at six every morning.",
       "source": "OpenJLPT/Tatoeba:152733",
       "generated": false
@@ -12301,7 +12301,7 @@
     "level": "N5",
     "word": "六つ",
     "reading": "むっつ",
-    "wordFurigana": "{六つ|むっつ}",
+    "wordFurigana": "{六|むっ}つ",
     "english": "six",
     "meanings": [
       "six",
@@ -12361,7 +12361,7 @@
     ],
     "example": {
       "ja": "４月５日か６日に会っていただけませんか。",
-      "furigana": "４{月|がつ}５{日|にち}か６{日|にち}に{会っ|あっ}ていただけませんか。",
+      "furigana": "４{月|がつ}５{日|にち}か６{日|にち}に{会|あ}っていただけませんか。",
       "en": "Would it be possible to set up a meeting with us on April 5 or 6?",
       "source": "OpenJLPT/Tatoeba:235224",
       "generated": false
@@ -12482,7 +12482,7 @@
     "level": "N5",
     "word": "冷たい",
     "reading": "つめたい",
-    "wordFurigana": "{冷たい|つめたい}",
+    "wordFurigana": "{冷|つめ}たい",
     "english": "cold to the touch",
     "meanings": [
       "cold to the touch",
@@ -12551,7 +12551,7 @@
     "level": "N5",
     "word": "出かける",
     "reading": "でかける",
-    "wordFurigana": "{出か|でか}ける",
+    "wordFurigana": "{出|で}かける",
     "english": "to go out",
     "meanings": [
       "to go out",
@@ -12589,7 +12589,7 @@
     "level": "N5",
     "word": "出す",
     "reading": "だす",
-    "wordFurigana": "{出す|だす}",
+    "wordFurigana": "{出|だ}す",
     "english": "to put out",
     "meanings": [
       "to put out",
@@ -12625,7 +12625,7 @@
     "level": "N5",
     "word": "出る",
     "reading": "でる",
-    "wordFurigana": "{出る|でる}",
+    "wordFurigana": "{出|で}る",
     "english": "to appear",
     "meanings": [
       "to appear",
@@ -12698,7 +12698,7 @@
     "level": "N5",
     "word": "分かる",
     "reading": "わかる",
-    "wordFurigana": "{分か|わか}る",
+    "wordFurigana": "{分|わ}かる",
     "english": "to be understood",
     "meanings": [
       "to be understood",
@@ -12738,7 +12738,7 @@
     "level": "N5",
     "word": "切る",
     "reading": "きる",
-    "wordFurigana": "{切る|きる}",
+    "wordFurigana": "{切|き}る",
     "english": "to cut",
     "meanings": [
       "to cut",
@@ -12846,7 +12846,7 @@
     "level": "N5",
     "word": "初め",
     "reading": "はじめ",
-    "wordFurigana": "{初め|はじめ}",
+    "wordFurigana": "{初|はじ}め",
     "english": "beginning",
     "meanings": [
       "beginning"
@@ -12876,7 +12876,7 @@
     "level": "N5",
     "word": "初め/始めはじめ",
     "reading": "はじめ/はじめはじめ",
-    "wordFurigana": "{初め|はじめ}/{始め|はじめ}はじめ",
+    "wordFurigana": "{初|はじ}め/{始|はじめはじ}めはじめ",
     "english": "beginning",
     "meanings": [
       "beginning"
@@ -12890,9 +12890,9 @@
       "pdf:VocabListN5.pdf:p25"
     ],
     "example": {
-      "ja": "これは初め/始めはじめです。",
-      "furigana": "これは{初め|はじめ}/{始め|はじめ}はじめです。",
-      "en": "This is beginning.",
+      "ja": "きょう、店で初め/始めはじめを買いました。",
+      "furigana": "きょう、{店|みせ}で{初|はじ}め/{始|はじめはじ}めはじめを{買|か}いました。",
+      "en": "Today, I bought beginning.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -12903,7 +12903,7 @@
     "level": "N5",
     "word": "初めて",
     "reading": "はじめて",
-    "wordFurigana": "{初めて|はじめて}",
+    "wordFurigana": "{初|はじ}めて",
     "english": "for the first time",
     "meanings": [
       "for the first time"
@@ -12961,7 +12961,7 @@
     ],
     "example": {
       "ja": "外へ出る前に靴を磨きなさい。",
-      "furigana": "{外|そと}へ{出る|でる}{前|まえ}に{靴|くつ}を{磨き|みがき}なさい。",
+      "furigana": "{外|そと}へ{出|で}る{前|まえ}に{靴|くつ}を{磨|みが}きなさい。",
       "en": "Shine your shoes before going out.",
       "source": "OpenJLPT/Tatoeba:184856",
       "generated": false
@@ -13007,7 +13007,7 @@
     "level": "N5",
     "word": "勉強",
     "reading": "べんきょう (する)",
-    "wordFurigana": "{勉強|べんきょう (する)}",
+    "wordFurigana": "{勉強|べんきょう}",
     "english": "study",
     "meanings": [
       "study"
@@ -13024,9 +13024,9 @@
       "topic:n5_topics_filtered.json#at_work_school"
     ],
     "example": {
-      "ja": "これは勉強です。",
-      "furigana": "これは{勉強|べんきょう (する)}です。",
-      "en": "This is study.",
+      "ja": "きょう、店で勉強を買いました。",
+      "furigana": "きょう、{店|みせ}で{勉強|べんきょう}を{買|か}いました。",
+      "en": "Today, I bought study.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -13051,9 +13051,9 @@
       "pdf:VocabListN5.pdf:p28"
     ],
     "example": {
-      "ja": "わたしは勉強。",
-      "furigana": "わたしは{勉強|べんきょうする}。",
-      "en": "I study",
+      "ja": "毎日、私は勉強ことができます。",
+      "furigana": "{毎日|まいにち}、{私|わたし}は{勉強|べんきょうする}ことができます。",
+      "en": "I can study.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -13098,7 +13098,7 @@
     "level": "N5",
     "word": "勤める",
     "reading": "つとめる",
-    "wordFurigana": "{勤め|つとめ}る",
+    "wordFurigana": "{勤|つと}める",
     "english": "to work for someone",
     "meanings": [
       "to work for someone",
@@ -13207,7 +13207,7 @@
     "level": "N5",
     "word": "十",
     "reading": "(～を) とお",
-    "wordFurigana": "{十|(～を) とお}",
+    "wordFurigana": "{十|とお}",
     "english": "ten (~)",
     "meanings": [
       "ten (~)"
@@ -13224,9 +13224,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは十です。",
-      "furigana": "これは{十|(～を) とお}です。",
-      "en": "This is ten (~).",
+      "ja": "きょう、店で十を買いました。",
+      "furigana": "きょう、{店|みせ}で{十|とお}を{買|か}いました。",
+      "en": "Today, I bought ten (~).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -13260,7 +13260,7 @@
     ],
     "example": {
       "ja": "その会は十時に終わった。",
-      "furigana": "その{会|かい}は{十時|ととき}に{終わ|おわ}った。",
+      "furigana": "その{会|かい}は{十時|ととき}に{終|お}わった。",
       "en": "The party ended at ten o'clock.",
       "source": "OpenJLPT/Tatoeba:211902",
       "generated": false
@@ -13272,7 +13272,7 @@
     "level": "N5",
     "word": "十",
     "reading": "じゅう とお",
-    "wordFurigana": "{十|じゅう とお}",
+    "wordFurigana": "{十|じゅう}",
     "english": "Ten",
     "meanings": [
       "Ten"
@@ -13286,9 +13286,9 @@
       "pdf:VocabListN5.pdf:p15"
     ],
     "example": {
-      "ja": "これは十です。",
-      "furigana": "これは{十|じゅう とお}です。",
-      "en": "This is Ten.",
+      "ja": "きょう、店で十を買いました。",
+      "furigana": "きょう、{店|みせ}で{十|じゅう}を{買|か}いました。",
+      "en": "Today, I bought Ten.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -13324,7 +13324,7 @@
     ],
     "example": {
       "ja": "ジャックは８月１０日に生まれた。",
-      "furigana": "ジャックは８{月|がつ}１０{日|にち}に{生まれ|うまれ}た。",
+      "furigana": "ジャックは８{月|がつ}１０{日|にち}に{生|う}まれた。",
       "en": "Jack was born on August the tenth.",
       "source": "OpenJLPT/Tatoeba:215846",
       "generated": false
@@ -13358,7 +13358,7 @@
     ],
     "example": {
       "ja": "このホールには人が二千人入れる。",
-      "furigana": "このホールには{人|にん}が{二千|にせん}{人|にん}{入れ|いれ}る。",
+      "furigana": "このホールには{人|にん}が{二千|にせん}{人|にん}{入|い}れる。",
       "en": "Two thousand people fit into this hall.",
       "source": "OpenJLPT/Tatoeba:223188",
       "generated": false
@@ -13548,7 +13548,7 @@
     "level": "N5",
     "word": "危ない",
     "reading": "あぶない",
-    "wordFurigana": "{危ない|あぶない}",
+    "wordFurigana": "{危|あぶ}ない",
     "english": "dangerous",
     "meanings": [
       "dangerous",
@@ -13617,7 +13617,7 @@
     "level": "N5",
     "word": "厚い",
     "reading": "あつい",
-    "wordFurigana": "{厚い|あつい}",
+    "wordFurigana": "{厚|あつ}い",
     "english": "kind",
     "meanings": [
       "kind",
@@ -13724,7 +13724,7 @@
     "level": "N5",
     "word": "取る",
     "reading": "とる",
-    "wordFurigana": "{取る|とる}",
+    "wordFurigana": "{取|と}る",
     "english": "to take something",
     "meanings": [
       "to take something",
@@ -13799,7 +13799,7 @@
     "level": "N5",
     "word": "古い",
     "reading": "ふるい",
-    "wordFurigana": "{古い|ふるい}",
+    "wordFurigana": "{古|ふる}い",
     "english": "old (not used for people)",
     "meanings": [
       "old (not used for people)",
@@ -13904,7 +13904,7 @@
     "level": "N5",
     "word": "同じ",
     "reading": "おなじ",
-    "wordFurigana": "{同じ|おなじ}",
+    "wordFurigana": "{同|おな}じ",
     "english": "same",
     "meanings": [
       "same",
@@ -13974,7 +13974,7 @@
     "level": "N5",
     "word": "向こう",
     "reading": "むこう",
-    "wordFurigana": "{向こう|むこう}",
+    "wordFurigana": "{向|む}こう",
     "english": "over there",
     "meanings": [
       "over there",
@@ -14009,7 +14009,7 @@
     "level": "N5",
     "word": "吸う",
     "reading": "すう",
-    "wordFurigana": "{吸う|すう}",
+    "wordFurigana": "{吸|す}う",
     "english": "to smoke",
     "meanings": [
       "to smoke",
@@ -14047,7 +14047,7 @@
     "level": "N5",
     "word": "吹く",
     "reading": "ふく",
-    "wordFurigana": "{吹く|ふく}",
+    "wordFurigana": "{吹|ふ}く",
     "english": "to blow",
     "meanings": [
       "to blow",
@@ -14083,7 +14083,7 @@
     "level": "N5",
     "word": "呼ぶ",
     "reading": "よぶ",
-    "wordFurigana": "{呼ぶ|よぶ}",
+    "wordFurigana": "{呼|よ}ぶ",
     "english": "to call out",
     "meanings": [
       "to call out",
@@ -14121,7 +14121,7 @@
     "level": "N5",
     "word": "咲く",
     "reading": "さく",
-    "wordFurigana": "{咲く|さく}",
+    "wordFurigana": "{咲|さ}く",
     "english": "to bloom",
     "meanings": [
       "to bloom"
@@ -14261,7 +14261,7 @@
     "level": "N5",
     "word": "四つ",
     "reading": "よっつ",
-    "wordFurigana": "{四つ|よっつ}",
+    "wordFurigana": "{四|よっ}つ",
     "english": "four",
     "meanings": [
       "four",
@@ -14321,7 +14321,7 @@
     ],
     "example": {
       "ja": "長くても４日しか待てませんよ。",
-      "furigana": "{長く|ながく}ても４{日|にち}しか{待て|まて}ませんよ。",
+      "furigana": "{長|なが}くても４{日|にち}しか{待|ま}てませんよ。",
       "en": "I can wait four days at the longest.",
       "source": "OpenJLPT/Tatoeba:125908",
       "generated": false
@@ -14333,7 +14333,7 @@
     "level": "N5",
     "word": "困る",
     "reading": "こまる",
-    "wordFurigana": "{困る|こまる}",
+    "wordFurigana": "{困|こま}る",
     "english": "to be worried",
     "meanings": [
       "to be worried",
@@ -14496,7 +14496,7 @@
     ],
     "example": {
       "ja": "地下鉄で行きたいのです。",
-      "furigana": "{地下鉄|ちかてつ}で{行き|いき}たいのです。",
+      "furigana": "{地下鉄|ちかてつ}で{行|い}きたいのです。",
       "en": "I want to get there by subway.",
       "source": "OpenJLPT/Tatoeba:127016",
       "generated": false
@@ -14611,7 +14611,7 @@
     "level": "N5",
     "word": "売る",
     "reading": "うる",
-    "wordFurigana": "{売る|うる}",
+    "wordFurigana": "{売|う}る",
     "english": "to sell",
     "meanings": [
       "to sell",
@@ -14682,7 +14682,7 @@
     "level": "N5",
     "word": "夏休み",
     "reading": "なつやすみ",
-    "wordFurigana": "{夏休み|なつやすみ}",
+    "wordFurigana": "{夏休|なつやす}み",
     "english": "summer holiday",
     "meanings": [
       "summer holiday",
@@ -14705,7 +14705,7 @@
     ],
     "example": {
       "ja": "この夏休みはどこかへ行くのですか。",
-      "furigana": "この{夏休み|なつやすみ}はどこかへ{行く|いく}のですか。",
+      "furigana": "この{夏休|なつやす}みはどこかへ{行|い}くのですか。",
       "en": "Are you going away this summer?",
       "source": "OpenJLPT/Tatoeba:222855",
       "generated": false
@@ -14786,7 +14786,7 @@
     ],
     "example": {
       "ja": "夕飯はもう食べましたか。",
-      "furigana": "{夕飯|ゆうはん}はもう{食べ|たべ}ましたか。",
+      "furigana": "{夕飯|ゆうはん}はもう{食|た}べましたか。",
       "en": "Have you had dinner?",
       "source": "OpenJLPT/Tatoeba:79059",
       "generated": false
@@ -14902,7 +14902,7 @@
     "level": "N5",
     "word": "多い",
     "reading": "おおい",
-    "wordFurigana": "{多い|おおい}",
+    "wordFurigana": "{多|おお}い",
     "english": "many",
     "meanings": [
       "many",
@@ -14975,7 +14975,7 @@
     "level": "N5",
     "word": "大きい",
     "reading": "おおきい",
-    "wordFurigana": "{大きい|おおきい}",
+    "wordFurigana": "{大|おお}きい",
     "english": "big",
     "meanings": [
       "big",
@@ -15010,7 +15010,7 @@
     "level": "N5",
     "word": "大きな",
     "reading": "おおきな",
-    "wordFurigana": "{大き|おおき}な",
+    "wordFurigana": "{大|おお}きな",
     "english": "big",
     "meanings": [
       "big"
@@ -15206,7 +15206,7 @@
     ],
     "example": {
       "ja": "大ぜいの人たちがいた。",
-      "furigana": "{大ぜ|おおぜ}いの{人|にん}たちがいた。",
+      "furigana": "{大|おお}ぜいの{人|にん}たちがいた。",
       "en": "There were lots of people.",
       "source": "OpenJLPT/Tatoeba:137691",
       "generated": false
@@ -15218,7 +15218,7 @@
     "level": "N5",
     "word": "大好き",
     "reading": "だいすき",
-    "wordFurigana": "{大好き|だいすき}",
+    "wordFurigana": "{大好|だいす}き",
     "english": "to be very likeable",
     "meanings": [
       "to be very likeable",
@@ -15322,7 +15322,7 @@
     "level": "N5",
     "word": "太い",
     "reading": "ふとい",
-    "wordFurigana": "{太い|ふとい}",
+    "wordFurigana": "{太|ふと}い",
     "english": "fat",
     "meanings": [
       "fat",
@@ -15357,7 +15357,7 @@
     "level": "N5",
     "word": "奥さん",
     "reading": "おくさん",
-    "wordFurigana": "{奥さん|おくさん}",
+    "wordFurigana": "{奥|おく}さん",
     "english": "(honorable) wife",
     "meanings": [
       "(honorable) wife",
@@ -15433,7 +15433,7 @@
     "level": "N5",
     "word": "女の子",
     "reading": "おんなのこ",
-    "wordFurigana": "{女の子|おんなのこ}",
+    "wordFurigana": "{女|おんな}の{子|こ}",
     "english": "girl",
     "meanings": [
       "girl"
@@ -15468,7 +15468,7 @@
     "level": "N5",
     "word": "好き",
     "reading": "すき",
-    "wordFurigana": "{好き|すき}",
+    "wordFurigana": "{好|す}き",
     "english": "likeable",
     "meanings": [
       "likeable",
@@ -15574,7 +15574,7 @@
     "level": "N5",
     "word": "始まる",
     "reading": "はじまる",
-    "wordFurigana": "{始ま|はじま}る",
+    "wordFurigana": "{始|はじ}まる",
     "english": "to begin",
     "meanings": [
       "to begin",
@@ -15610,7 +15610,7 @@
     "level": "N5",
     "word": "始め",
     "reading": "はじめ",
-    "wordFurigana": "{始め|はじめ}",
+    "wordFurigana": "{始|はじ}め",
     "english": "beginning",
     "meanings": [
       "beginning",
@@ -15690,7 +15690,7 @@
     "level": "N5",
     "word": "嫌い",
     "reading": "きらい",
-    "wordFurigana": "{嫌い|きらい}",
+    "wordFurigana": "{嫌|きら}い",
     "english": "hate",
     "meanings": [
       "hate",
@@ -15867,7 +15867,7 @@
     "level": "N5",
     "word": "安い",
     "reading": "やすい",
-    "wordFurigana": "{安い|やすい}",
+    "wordFurigana": "{安|やす}い",
     "english": "cheap",
     "meanings": [
       "cheap",
@@ -16053,7 +16053,7 @@
     "level": "N5",
     "word": "寒い",
     "reading": "さむい",
-    "wordFurigana": "{寒い|さむい}",
+    "wordFurigana": "{寒|さむ}い",
     "english": "cold",
     "meanings": [
       "cold",
@@ -16088,7 +16088,7 @@
     "level": "N5",
     "word": "寝る",
     "reading": "ねる",
-    "wordFurigana": "{寝る|ねる}",
+    "wordFurigana": "{寝|ね}る",
     "english": "to go to bed",
     "meanings": [
       "to go to bed",
@@ -16163,7 +16163,7 @@
     "level": "N5",
     "word": "小さい",
     "reading": "ちいさい",
-    "wordFurigana": "{小さい|ちいさい}",
+    "wordFurigana": "{小|ちい}さい",
     "english": "little",
     "meanings": [
       "little",
@@ -16198,7 +16198,7 @@
     "level": "N5",
     "word": "小さな",
     "reading": "ちいさな",
-    "wordFurigana": "{小さ|ちいさ}な",
+    "wordFurigana": "{小|ちい}さな",
     "english": "little",
     "meanings": [
       "little",
@@ -16233,7 +16233,7 @@
     "level": "N5",
     "word": "少し",
     "reading": "すこし",
-    "wordFurigana": "{少し|すこし}",
+    "wordFurigana": "{少|すこ}し",
     "english": "few",
     "meanings": [
       "few",
@@ -16268,7 +16268,7 @@
     "level": "N5",
     "word": "少ない",
     "reading": "すくない",
-    "wordFurigana": "{少ない|すくない}",
+    "wordFurigana": "{少|すく}ない",
     "english": "a few",
     "meanings": [
       "a few",
@@ -16389,9 +16389,9 @@
       "pdf:VocabListN5.pdf:p9"
     ],
     "example": {
-      "ja": "これは川/河かわです。",
-      "furigana": "これは{川|かわ}/{河|かわ}かわです。",
-      "en": "This is River.",
+      "ja": "きょう、店で川/河かわを買いました。",
+      "furigana": "きょう、{店|みせ}で{川|かわ}/{河|かわ}かわを{買|か}いました。",
+      "en": "Today, I bought River.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -16437,7 +16437,7 @@
     "level": "N5",
     "word": "差す",
     "reading": "さす",
-    "wordFurigana": "{差す|さす}",
+    "wordFurigana": "{差|さ}す",
     "english": "to stretch out hands",
     "meanings": [
       "to stretch out hands",
@@ -16475,7 +16475,7 @@
     "level": "N5",
     "word": "帰る",
     "reading": "かえる",
-    "wordFurigana": "{帰る|かえる}",
+    "wordFurigana": "{帰|かえ}る",
     "english": "to go back",
     "meanings": [
       "to go back",
@@ -16569,7 +16569,7 @@
     ],
     "example": {
       "ja": "平仮名は書けるんだけど、片仮名はまだ書けないんだ。",
-      "furigana": "{平仮名|ひらがな}は{書け|かけ}るんだけど、{片仮名|かたかな}はまだ{書け|かけ}ないんだ。",
+      "furigana": "{平仮名|ひらがな}は{書|か}けるんだけど、{片仮名|かたかな}はまだ{書|か}けないんだ。",
       "en": "I can write hiragana, but I can't yet write katakana.",
       "source": "OpenJLPT/Tatoeba:10989476",
       "generated": false
@@ -16604,7 +16604,7 @@
     ],
     "example": {
       "ja": "お年をお聞きしてよろしいでしょうか。",
-      "furigana": "お{年|ねん}をお{聞き|きき}してよろしいでしょうか。",
+      "furigana": "お{年|ねん}をお{聞|き}きしてよろしいでしょうか。",
       "en": "Might I ask your age?",
       "source": "OpenJLPT/Tatoeba:226785",
       "generated": false
@@ -16616,7 +16616,7 @@
     "level": "N5",
     "word": "広い",
     "reading": "ひろい",
-    "wordFurigana": "{広い|ひろい}",
+    "wordFurigana": "{広|ひろ}い",
     "english": "spacious",
     "meanings": [
       "spacious",
@@ -16688,7 +16688,7 @@
     "level": "N5",
     "word": "座る",
     "reading": "すわる",
-    "wordFurigana": "{座る|すわる}",
+    "wordFurigana": "{座|すわ}る",
     "english": "to sit",
     "meanings": [
       "to sit"
@@ -16825,7 +16825,7 @@
     "level": "N5",
     "word": "引く",
     "reading": "ひく",
-    "wordFurigana": "{引く|ひく}",
+    "wordFurigana": "{引|ひ}く",
     "english": "to pull",
     "meanings": [
       "to pull",
@@ -16895,7 +16895,7 @@
     "level": "N5",
     "word": "弱い",
     "reading": "よわい",
-    "wordFurigana": "{弱い|よわい}",
+    "wordFurigana": "{弱|よわ}い",
     "english": "weak",
     "meanings": [
       "weak"
@@ -16917,7 +16917,7 @@
     ],
     "example": {
       "ja": "それを言われると弱いなあ。",
-      "furigana": "それを{言わ|いわ}れると{弱い|よわい}なあ。",
+      "furigana": "それを{言|い}われると{弱|よわ}いなあ。",
       "en": "That sure puts me on the spot.",
       "source": "OpenJLPT/Tatoeba:204593",
       "generated": false
@@ -16929,7 +16929,7 @@
     "level": "N5",
     "word": "強い",
     "reading": "つよい",
-    "wordFurigana": "{強い|つよい}",
+    "wordFurigana": "{強|つよ}い",
     "english": "powerful",
     "meanings": [
       "powerful",
@@ -16964,7 +16964,7 @@
     "level": "N5",
     "word": "弾く",
     "reading": "ひく",
-    "wordFurigana": "{弾く|ひく}",
+    "wordFurigana": "{弾|ひ}く",
     "english": "to play an instrument with strings",
     "meanings": [
       "to play an instrument with strings",
@@ -17002,7 +17002,7 @@
     "level": "N5",
     "word": "待つ",
     "reading": "まつ",
-    "wordFurigana": "{待つ|まつ}",
+    "wordFurigana": "{待|ま}つ",
     "english": "to wait",
     "meanings": [
       "to wait"
@@ -17074,7 +17074,7 @@
     "level": "N5",
     "word": "後ろ",
     "reading": "うしろ",
-    "wordFurigana": "{後ろ|うしろ}",
+    "wordFurigana": "{後|うし}ろ",
     "english": "behind",
     "meanings": [
       "behind",
@@ -17147,7 +17147,7 @@
     "level": "N5",
     "word": "忘れる",
     "reading": "わすれる",
-    "wordFurigana": "{忘れ|わすれ}る",
+    "wordFurigana": "{忘|わす}れる",
     "english": "to forget",
     "meanings": [
       "to forget"
@@ -17182,7 +17182,7 @@
     "level": "N5",
     "word": "忙しい",
     "reading": "いそがしい",
-    "wordFurigana": "{忙しい|いそがしい}",
+    "wordFurigana": "{忙|いそが}しい",
     "english": "busy",
     "meanings": [
       "busy",
@@ -17219,7 +17219,7 @@
     "level": "N5",
     "word": "悪い",
     "reading": "わるい",
-    "wordFurigana": "{悪い|わるい}",
+    "wordFurigana": "{悪|わる}い",
     "english": "bad",
     "meanings": [
       "bad",
@@ -17432,7 +17432,7 @@
     "level": "N5",
     "word": "押す",
     "reading": "おす",
-    "wordFurigana": "{押す|おす}",
+    "wordFurigana": "{押|お}す",
     "english": "to push",
     "meanings": [
       "to push",
@@ -17473,7 +17473,7 @@
     "level": "N5",
     "word": "持つ",
     "reading": "もつ",
-    "wordFurigana": "{持つ|もつ}",
+    "wordFurigana": "{持|も}つ",
     "english": "to hold",
     "meanings": [
       "to hold",
@@ -17544,7 +17544,7 @@
     "level": "N5",
     "word": "掃除",
     "reading": "そうじ (する)",
-    "wordFurigana": "{掃除|そうじ (する)}",
+    "wordFurigana": "{掃除|そうじ}",
     "english": "cleaning, sweeping",
     "meanings": [
       "cleaning, sweeping"
@@ -17561,9 +17561,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは掃除です。",
-      "furigana": "これは{掃除|そうじ (する)}です。",
-      "en": "This is cleaning, sweeping.",
+      "ja": "きょう、店で掃除を買いました。",
+      "furigana": "きょう、{店|みせ}で{掃除|そうじ}を{買|か}いました。",
+      "en": "Today, I bought cleaning, sweeping.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -17588,9 +17588,9 @@
       "pdf:VocabListN5.pdf:p17"
     ],
     "example": {
-      "ja": "わたしは掃除。",
-      "furigana": "わたしは{掃除|そうじする}。",
-      "en": "I clean, to sweep",
+      "ja": "毎日、私は掃除ことができます。",
+      "furigana": "{毎日|まいにち}、{私|わたし}は{掃除|そうじする}ことができます。",
+      "en": "I can clean, to sweep.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -17643,7 +17643,7 @@
     "level": "N5",
     "word": "撮る",
     "reading": "とる",
-    "wordFurigana": "{撮る|とる}",
+    "wordFurigana": "{撮|と}る",
     "english": "to take a photo or record a film",
     "meanings": [
       "to take a photo or record a film",
@@ -17679,7 +17679,7 @@
     "level": "N5",
     "word": "教える",
     "reading": "おしえる",
-    "wordFurigana": "{教え|おしえ}る",
+    "wordFurigana": "{教|おし}える",
     "english": "to teach",
     "meanings": [
       "to teach",
@@ -17791,7 +17791,7 @@
     "level": "N5",
     "word": "散歩",
     "reading": "さんぽ (する)",
-    "wordFurigana": "{散歩|さんぽ (する)}",
+    "wordFurigana": "{散歩|さんぽ}",
     "english": "walk, stroll",
     "meanings": [
       "walk, stroll"
@@ -17808,9 +17808,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは散歩です。",
-      "furigana": "これは{散歩|さんぽ (する)}です。",
-      "en": "This is walk, stroll.",
+      "ja": "きょう、店で散歩を買いました。",
+      "furigana": "きょう、{店|みせ}で{散歩|さんぽ}を{買|か}いました。",
+      "en": "Today, I bought walk, stroll.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -17835,9 +17835,9 @@
       "pdf:VocabListN5.pdf:p14"
     ],
     "example": {
-      "ja": "わたしは散歩。",
-      "furigana": "わたしは{散歩|さんぽする}。",
-      "en": "I stroll",
+      "ja": "毎日、私は散歩ことができます。",
+      "furigana": "{毎日|まいにち}、{私|わたし}は{散歩|さんぽする}ことができます。",
+      "en": "I can stroll.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -17922,7 +17922,7 @@
     "level": "N5",
     "word": "新しい",
     "reading": "あたらしい",
-    "wordFurigana": "{新しい|あたらしい}",
+    "wordFurigana": "{新|あたら}しい",
     "english": "new",
     "meanings": [
       "new"
@@ -18099,7 +18099,7 @@
     "level": "N5",
     "word": "早い",
     "reading": "はやい",
-    "wordFurigana": "{早い|はやい}",
+    "wordFurigana": "{早|はや}い",
     "english": "early",
     "meanings": [
       "early"
@@ -18133,7 +18133,7 @@
     "level": "N5",
     "word": "明い",
     "reading": "あかるい",
-    "wordFurigana": "{明い|あかるい}",
+    "wordFurigana": "{明|あかる}い",
     "english": "bright",
     "meanings": [
       "bright"
@@ -18147,9 +18147,9 @@
       "pdf:VocabListN5.pdf:p1"
     ],
     "example": {
-      "ja": "これはとても明いです。",
-      "furigana": "これはとても{明い|あかるい}です。",
-      "en": "This is very bright.",
+      "ja": "この食べ物はとても明いです。",
+      "furigana": "この{食|た}べ{物|もの}はとても{明|あかる}いです。",
+      "en": "This food is very bright.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -18160,7 +18160,7 @@
     "level": "N5",
     "word": "明るい",
     "reading": "あかるい",
-    "wordFurigana": "{明るい|あかるい}",
+    "wordFurigana": "{明|あか}るい",
     "english": "bright",
     "meanings": [
       "bright",
@@ -18236,7 +18236,7 @@
     "level": "N5",
     "word": "易しい",
     "reading": "やさしい",
-    "wordFurigana": "{易しい|やさしい}",
+    "wordFurigana": "{易|やさ}しい",
     "english": "easy",
     "meanings": [
       "easy",
@@ -18436,7 +18436,7 @@
     ],
     "example": {
       "ja": "きのう先生は今日テストをすると言った。",
-      "furigana": "きのう{先生|せんせい}は{今日|きょう}テストをすると{言った|いった}。",
+      "furigana": "きのう{先生|せんせい}は{今日|きょう}テストをすると{言|い}った。",
       "en": "Yesterday the teacher told us that he would give us a test today.",
       "source": "OpenJLPT/Tatoeba:225950",
       "generated": false
@@ -18691,7 +18691,7 @@
     ],
     "example": {
       "ja": "晩ご飯ですよ、お父さん。",
-      "furigana": "{晩|ばん}ご{飯|めし}ですよ、お{父さん|とうさん}。",
+      "furigana": "{晩|ばん}ご{飯|めし}ですよ、お{父|とう}さん。",
       "en": "Dinner is ready, Father.",
       "source": "OpenJLPT/Tatoeba:121185",
       "generated": false
@@ -18703,7 +18703,7 @@
     "level": "N5",
     "word": "晴れ",
     "reading": "はれ",
-    "wordFurigana": "{晴れ|はれ}",
+    "wordFurigana": "{晴|は}れ",
     "english": "clear weather",
     "meanings": [
       "clear weather",
@@ -18739,7 +18739,7 @@
     "level": "N5",
     "word": "晴れる",
     "reading": "はれる",
-    "wordFurigana": "{晴れ|はれ}る",
+    "wordFurigana": "{晴|は}れる",
     "english": "to be sunny",
     "meanings": [
       "to be sunny"
@@ -18806,7 +18806,7 @@
     "level": "N5",
     "word": "暑い",
     "reading": "あつい",
-    "wordFurigana": "{暑い|あつい}",
+    "wordFurigana": "{暑|あつ}い",
     "english": "hot",
     "meanings": [
       "hot",
@@ -18843,7 +18843,7 @@
     "level": "N5",
     "word": "暖かい",
     "reading": "あたたかい",
-    "wordFurigana": "{暖かい|あたたかい}",
+    "wordFurigana": "{暖|あたた}かい",
     "english": "warm",
     "meanings": [
       "warm"
@@ -18884,7 +18884,7 @@
     "level": "N5",
     "word": "暗い",
     "reading": "くらい",
-    "wordFurigana": "{暗い|くらい}",
+    "wordFurigana": "{暗|くら}い",
     "english": "gloomy",
     "meanings": [
       "gloomy",
@@ -18919,7 +18919,7 @@
     "level": "N5",
     "word": "曇り",
     "reading": "くもり",
-    "wordFurigana": "{曇り|くもり}",
+    "wordFurigana": "{曇|くも}り",
     "english": "cloudy weather",
     "meanings": [
       "cloudy weather",
@@ -18959,7 +18959,7 @@
     "level": "N5",
     "word": "曇る",
     "reading": "くもる",
-    "wordFurigana": "{曇る|くもる}",
+    "wordFurigana": "{曇|くも}る",
     "english": "to become cloudy",
     "meanings": [
       "to become cloudy",
@@ -18981,7 +18981,7 @@
     ],
     "example": {
       "ja": "今日は曇っている。",
-      "furigana": "{今日は|こんにちは}{曇っ|くもっ}ている。",
+      "furigana": "{今日|こんにち}は{曇|くも}っている。",
       "en": "It is cloudy today.",
       "source": "OpenJLPT/Tatoeba:171528",
       "generated": false
@@ -18993,7 +18993,7 @@
     "level": "N5",
     "word": "曲る",
     "reading": "まがる",
-    "wordFurigana": "{曲る|まがる}",
+    "wordFurigana": "{曲|まが}る",
     "english": "to turn",
     "meanings": [
       "to turn",
@@ -19023,7 +19023,7 @@
     ],
     "example": {
       "ja": "２ブロック先まで歩き、左へ曲がりなさい。",
-      "furigana": "２ブロック{先|さき}まで{歩き|あるき}、{左|ひだり}へ{曲がり|まがり}なさい。",
+      "furigana": "２ブロック{先|さき}まで{歩|ある}き、{左|ひだり}へ{曲|ま}がりなさい。",
       "en": "Walk two blocks, and turn left.",
       "source": "OpenJLPT/Tatoeba:235525",
       "generated": false
@@ -19035,7 +19035,7 @@
     "level": "N5",
     "word": "書く",
     "reading": "かく",
-    "wordFurigana": "{書く|かく}",
+    "wordFurigana": "{書|か}く",
     "english": "to write",
     "meanings": [
       "to write"
@@ -19209,7 +19209,7 @@
     "level": "N5",
     "word": "朝ごはん",
     "reading": "あさごはん",
-    "wordFurigana": "{朝ごはん|あさごはん}",
+    "wordFurigana": "{朝|あさ}ごはん",
     "english": "breakfast",
     "meanings": [
       "breakfast"
@@ -19236,7 +19236,7 @@
     ],
     "example": {
       "ja": "朝ごはんにはなにがよろしいですか。",
-      "furigana": "{朝ごはん|あさごはん}にはなにがよろしいですか。",
+      "furigana": "{朝|あさ}ごはんにはなにがよろしいですか。",
       "en": "What would you like for breakfast?",
       "source": "OpenJLPT/Tatoeba:126248",
       "generated": false
@@ -19342,7 +19342,7 @@
     ],
     "example": {
       "ja": "ウイスキーを１本持っています。",
-      "furigana": "ウイスキーを１{本|ほん}{持っ|もっ}ています。",
+      "furigana": "ウイスキーを１{本|ほん}{持|も}っています。",
       "en": "I have a bottle of whiskey.",
       "source": "OpenJLPT/Tatoeba:228339",
       "generated": false
@@ -19457,7 +19457,7 @@
     "level": "N5",
     "word": "来る",
     "reading": "くる",
-    "wordFurigana": "{来る|くる}",
+    "wordFurigana": "{来|く}る",
     "english": "to come",
     "meanings": [
       "to come"
@@ -19584,7 +19584,7 @@
     ],
     "example": {
       "ja": "来週ヨーロッパへ行くつもりなんです。",
-      "furigana": "{来週|らいしゅう}ヨーロッパへ{行く|いく}つもりなんです。",
+      "furigana": "{来週|らいしゅう}ヨーロッパへ{行|い}くつもりなんです。",
       "en": "I'm going to Europe next week.",
       "source": "OpenJLPT/Tatoeba:191765",
       "generated": false
@@ -19664,7 +19664,7 @@
     "level": "N5",
     "word": "楽しい",
     "reading": "たのしい",
-    "wordFurigana": "{楽しい|たのしい}",
+    "wordFurigana": "{楽|たの}しい",
     "english": "enjoyable",
     "meanings": [
       "enjoyable",
@@ -19806,7 +19806,7 @@
     "level": "N5",
     "word": "欲しい",
     "reading": "ほしい",
-    "wordFurigana": "{欲しい|ほしい}",
+    "wordFurigana": "{欲|ほ}しい",
     "english": "want",
     "meanings": [
       "want",
@@ -19877,7 +19877,7 @@
     "level": "N5",
     "word": "歌う",
     "reading": "うたう",
-    "wordFurigana": "{歌う|うたう}",
+    "wordFurigana": "{歌|うた}う",
     "english": "to sing",
     "meanings": [
       "to sing"
@@ -19913,7 +19913,7 @@
     "level": "N5",
     "word": "止まる",
     "reading": "とまる",
-    "wordFurigana": "{止ま|とま}る",
+    "wordFurigana": "{止|と}まる",
     "english": "to come to a halt",
     "meanings": [
       "to come to a halt"
@@ -19947,7 +19947,7 @@
     "level": "N5",
     "word": "歩く",
     "reading": "あるく",
-    "wordFurigana": "{歩く|あるく}",
+    "wordFurigana": "{歩|ある}く",
     "english": "to walk",
     "meanings": [
       "to walk"
@@ -19970,7 +19970,7 @@
     ],
     "example": {
       "ja": "歩いて行きますか？それともバスで行きますか？",
-      "furigana": "{歩い|あるい}て{行き|いき}ますか？それともバスで{行き|いき}ますか？",
+      "furigana": "{歩|ある}いて{行|い}きますか？それともバスで{行|い}きますか？",
       "en": "Will you go on foot or by bus?",
       "source": "OpenJLPT/Tatoeba:231584",
       "generated": false
@@ -20016,7 +20016,7 @@
     "level": "N5",
     "word": "死ぬ",
     "reading": "しぬ",
-    "wordFurigana": "{死ぬ|しぬ}",
+    "wordFurigana": "{死|し}ぬ",
     "english": "to die",
     "meanings": [
       "to die"
@@ -20068,9 +20068,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは母です。",
-      "furigana": "これは{母|はは}です。",
-      "en": "This is (my) mother.",
+      "ja": "きょう、店で母を買いました。",
+      "furigana": "きょう、{店|みせ}で{母|はは}を{買|か}いました。",
+      "en": "Today, I bought (my) mother.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -20099,7 +20099,7 @@
     ],
     "example": {
       "ja": "毎年ここに来なきゃ。",
-      "furigana": "{毎年|まいとし}ここに{来な|こな}きゃ。",
+      "furigana": "{毎年|まいとし}ここに{来|こ}なきゃ。",
       "en": "I'll have to come here every year.",
       "source": "OpenJLPT/Tatoeba:81248",
       "generated": false
@@ -20111,7 +20111,7 @@
     "level": "N5",
     "word": "毎年",
     "reading": "まいねん; まいとし",
-    "wordFurigana": "{毎年|まいねん; まいとし}",
+    "wordFurigana": "{毎年|まいねん}",
     "english": "every year, yearly, annually",
     "meanings": [
       "every year, yearly, annually"
@@ -20128,9 +20128,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "わたしは毎年行きます。",
-      "furigana": "わたしは{毎年|まいねん; まいとし}{行き|いき}ます。",
-      "en": "I go every year, yearly, annually.",
+      "ja": "ゆっくり毎年歩いてください。",
+      "furigana": "ゆっくり{毎年|まいねん}{歩|ある}いてください。",
+      "en": "Please walk slowly. every year, yearly, annually.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -20229,7 +20229,7 @@
     ],
     "example": {
       "ja": "毎月のガス代はいくらですか。",
-      "furigana": "{毎月|まいつき}のガス{代は|かは}いくらですか。",
+      "furigana": "{毎月|まいつき}のガス{代|か}はいくらですか。",
       "en": "How much is your monthly gas bill?",
       "source": "OpenJLPT/Tatoeba:81361",
       "generated": false
@@ -20241,7 +20241,7 @@
     "level": "N5",
     "word": "毎月",
     "reading": "まいげつ; まいつき",
-    "wordFurigana": "{毎月|まいげつ; まいつき}",
+    "wordFurigana": "{毎月|まいげつ}",
     "english": "every month, monthly",
     "meanings": [
       "every month, monthly"
@@ -20258,9 +20258,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "わたしは毎月行きます。",
-      "furigana": "わたしは{毎月|まいげつ; まいつき}{行き|いき}ます。",
-      "en": "I go every month, monthly.",
+      "ja": "ゆっくり毎月歩いてください。",
+      "furigana": "ゆっくり{毎月|まいげつ}{歩|ある}いてください。",
+      "en": "Please walk slowly. every month, monthly.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -20410,7 +20410,7 @@
     "level": "N5",
     "word": "汚い",
     "reading": "きたない",
-    "wordFurigana": "{汚い|きたない}",
+    "wordFurigana": "{汚|きたな}い",
     "english": "dirty",
     "meanings": [
       "dirty",
@@ -20479,7 +20479,7 @@
     "level": "N5",
     "word": "泳ぐ",
     "reading": "およぐ",
-    "wordFurigana": "{泳ぐ|およぐ}",
+    "wordFurigana": "{泳|およ}ぐ",
     "english": "to swim",
     "meanings": [
       "to swim"
@@ -20548,7 +20548,7 @@
     "level": "N5",
     "word": "洗う",
     "reading": "あらう",
-    "wordFurigana": "{洗う|あらう}",
+    "wordFurigana": "{洗|あら}う",
     "english": "to wash",
     "meanings": [
       "to wash"
@@ -20643,7 +20643,7 @@
     ],
     "example": {
       "ja": "何としても海をひと目みたいものだ。",
-      "furigana": "{何と|なんと}しても{海|うみ}をひと{目|め}みたいものだ。",
+      "furigana": "{何|なん}としても{海|うみ}をひと{目|め}みたいものだ。",
       "en": "I ache for a sight of the sea.",
       "source": "OpenJLPT/Tatoeba:187770",
       "generated": false
@@ -20655,7 +20655,7 @@
     "level": "N5",
     "word": "消える",
     "reading": "きえる",
-    "wordFurigana": "{消え|きえ}る",
+    "wordFurigana": "{消|き}える",
     "english": "to disappear",
     "meanings": [
       "to disappear",
@@ -20691,7 +20691,7 @@
     "level": "N5",
     "word": "消す",
     "reading": "けす",
-    "wordFurigana": "{消す|けす}",
+    "wordFurigana": "{消|け}す",
     "english": "to erase",
     "meanings": [
       "to erase",
@@ -20729,7 +20729,7 @@
     "level": "N5",
     "word": "涼しい",
     "reading": "すずしい",
-    "wordFurigana": "{涼しい|すずしい}",
+    "wordFurigana": "{涼|すず}しい",
     "english": "refreshing",
     "meanings": [
       "refreshing",
@@ -20764,7 +20764,7 @@
     "level": "N5",
     "word": "渡す",
     "reading": "わたす",
-    "wordFurigana": "{渡す|わたす}",
+    "wordFurigana": "{渡|わた}す",
     "english": "to hand over",
     "meanings": [
       "to hand over",
@@ -20800,7 +20800,7 @@
     "level": "N5",
     "word": "渡る",
     "reading": "わたる",
-    "wordFurigana": "{渡る|わたる}",
+    "wordFurigana": "{渡|わた}る",
     "english": "to go across",
     "meanings": [
       "to go across",
@@ -20836,7 +20836,7 @@
     "level": "N5",
     "word": "温い",
     "reading": "ぬるい",
-    "wordFurigana": "{温い|ぬるい}",
+    "wordFurigana": "{温|ぬる}い",
     "english": "luke warm",
     "meanings": [
       "luke warm",
@@ -20975,7 +20975,7 @@
     "level": "N5",
     "word": "無くす",
     "reading": "なくす",
-    "wordFurigana": "{無く|なく}す",
+    "wordFurigana": "{無|な}くす",
     "english": "to lose something",
     "meanings": [
       "to lose something"
@@ -21010,7 +21010,7 @@
     "level": "N5",
     "word": "煩い",
     "reading": "うるさい",
-    "wordFurigana": "{煩い|うるさい}",
+    "wordFurigana": "{煩|うるさ}い",
     "english": "noisy",
     "meanings": [
       "noisy",
@@ -21052,7 +21052,7 @@
     "level": "N5",
     "word": "熱い",
     "reading": "あつい",
-    "wordFurigana": "{熱い|あつい}",
+    "wordFurigana": "{熱|あつ}い",
     "english": "hot to the touch",
     "meanings": [
       "hot to the touch",
@@ -21104,9 +21104,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは父です。",
-      "furigana": "これは{父|ちち}です。",
-      "en": "This is (my) father.",
+      "ja": "きょう、店で父を買いました。",
+      "furigana": "きょう、{店|みせ}で{父|ちち}を{買|か}いました。",
+      "en": "Today, I bought (my) father.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -21140,7 +21140,7 @@
     ],
     "example": {
       "ja": "平仮名は書けるんだけど、片仮名はまだ書けないんだ。",
-      "furigana": "{平仮名|ひらがな}は{書け|かけ}るんだけど、{片仮名|かたかな}はまだ{書け|かけ}ないんだ。",
+      "furigana": "{平仮名|ひらがな}は{書|か}けるんだけど、{片仮名|かたかな}はまだ{書|か}けないんだ。",
       "en": "I can write hiragana, but I can't yet write katakana.",
       "source": "OpenJLPT/Tatoeba:10989476",
       "generated": false
@@ -21289,7 +21289,7 @@
     "level": "N5",
     "word": "狭い",
     "reading": "せまい",
-    "wordFurigana": "{狭い|せまい}",
+    "wordFurigana": "{狭|せま}い",
     "english": "narrow",
     "meanings": [
       "narrow",
@@ -21396,7 +21396,7 @@
     "level": "N5",
     "word": "甘い",
     "reading": "あまい",
-    "wordFurigana": "{甘い|あまい}",
+    "wordFurigana": "{甘|あま}い",
     "english": "sweet",
     "meanings": [
       "sweet",
@@ -21431,7 +21431,7 @@
     "level": "N5",
     "word": "生まれる",
     "reading": "うまれる",
-    "wordFurigana": "{生まれ|うまれ}る",
+    "wordFurigana": "{生|う}まれる",
     "english": "to be born",
     "meanings": [
       "to be born"
@@ -21534,7 +21534,7 @@
     "level": "N5",
     "word": "男の子",
     "reading": "おとこのこ",
-    "wordFurigana": "{男の子|おとこのこ}",
+    "wordFurigana": "{男|おとこ}の{子|こ}",
     "english": "boy",
     "meanings": [
       "boy"
@@ -21676,7 +21676,7 @@
     "level": "N5",
     "word": "疲れる",
     "reading": "つかれる",
-    "wordFurigana": "{疲れ|つかれ}る",
+    "wordFurigana": "{疲|つか}れる",
     "english": "to get tired",
     "meanings": [
       "to get tired",
@@ -21781,7 +21781,7 @@
     "level": "N5",
     "word": "痛い",
     "reading": "いたい",
-    "wordFurigana": "{痛い|いたい}",
+    "wordFurigana": "{痛|いた}い",
     "english": "painful",
     "meanings": [
       "painful",
@@ -21816,7 +21816,7 @@
     "level": "N5",
     "word": "登る",
     "reading": "のぼる",
-    "wordFurigana": "{登る|のぼる}",
+    "wordFurigana": "{登|のぼ}る",
     "english": "to climb",
     "meanings": [
       "to climb"
@@ -21886,7 +21886,7 @@
     "level": "N5",
     "word": "白い",
     "reading": "しろい",
-    "wordFurigana": "{白い|しろい}",
+    "wordFurigana": "{白|しろ}い",
     "english": "white",
     "meanings": [
       "white"
@@ -21942,7 +21942,7 @@
     ],
     "example": {
       "ja": "百年後にはみな同じになる。",
-      "furigana": "{百年|ひゃくねん}{後に|のちに}はみな{同じ|おなじ}になる。",
+      "furigana": "{百年|ひゃくねん}{後|のち}にはみな{同|おな}じになる。",
       "en": "It will be all the same a hundred years hence.",
       "source": "OpenJLPT/Tatoeba:85413",
       "generated": false
@@ -21954,7 +21954,7 @@
     "level": "N5",
     "word": "皆さん",
     "reading": "みなさん",
-    "wordFurigana": "{皆さん|みなさん}",
+    "wordFurigana": "{皆|みな}さん",
     "english": "everyone",
     "meanings": [
       "everyone",
@@ -22059,7 +22059,7 @@
     "level": "N5",
     "word": "着く",
     "reading": "つく",
-    "wordFurigana": "{着く|つく}",
+    "wordFurigana": "{着|つ}く",
     "english": "to arrive at",
     "meanings": [
       "to arrive at",
@@ -22095,7 +22095,7 @@
     "level": "N5",
     "word": "着る",
     "reading": "きる",
-    "wordFurigana": "{着る|きる}",
+    "wordFurigana": "{着|き}る",
     "english": "to put on from the shoulders down",
     "meanings": [
       "to put on from the shoulders down",
@@ -22131,7 +22131,7 @@
     "level": "N5",
     "word": "知る",
     "reading": "しる",
-    "wordFurigana": "{知る|しる}",
+    "wordFurigana": "{知|し}る",
     "english": "to know",
     "meanings": [
       "to know",
@@ -22167,7 +22167,7 @@
     "level": "N5",
     "word": "短い",
     "reading": "みじかい",
-    "wordFurigana": "{短い|みじかい}",
+    "wordFurigana": "{短|みじか}い",
     "english": "short",
     "meanings": [
       "short",
@@ -22271,7 +22271,7 @@
     "level": "N5",
     "word": "磨く",
     "reading": "みがく",
-    "wordFurigana": "{磨く|みがく}",
+    "wordFurigana": "{磨|みが}く",
     "english": "to brush teeth",
     "meanings": [
       "to brush teeth",
@@ -22359,9 +22359,9 @@
       "pdf:VocabListN5.pdf:p34"
     ],
     "example": {
-      "ja": "これは私です。",
-      "furigana": "これは{私|わたし}です。",
-      "en": "This is I, myself.",
+      "ja": "きょう、店で私を買いました。",
+      "furigana": "きょう、{店|みせ}で{私|わたし}を{買|か}いました。",
+      "en": "Today, I bought I, myself.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -22467,7 +22467,7 @@
     ],
     "example": {
       "ja": "窓を開けっぱなしにしておいたの？",
-      "furigana": "{窓|まど}を{開け|ひらけ}っぱなしにしておいたの？",
+      "furigana": "{窓|まど}を{開|ひら}けっぱなしにしておいたの？",
       "en": "Did you leave the window open?",
       "source": "OpenJLPT/Tatoeba:231771",
       "generated": false
@@ -22479,7 +22479,7 @@
     "level": "N5",
     "word": "立つ",
     "reading": "たつ",
-    "wordFurigana": "{立つ|たつ}",
+    "wordFurigana": "{立|た}つ",
     "english": "to stand",
     "meanings": [
       "to stand",
@@ -22515,7 +22515,7 @@
     "level": "N5",
     "word": "答える",
     "reading": "こたえる",
-    "wordFurigana": "{答え|こたえ}る",
+    "wordFurigana": "{答|こた}える",
     "english": "to answer",
     "meanings": [
       "to answer",
@@ -22653,7 +22653,7 @@
     "level": "N5",
     "word": "細い",
     "reading": "ほそい",
-    "wordFurigana": "{細い|ほそい}",
+    "wordFurigana": "{細|ほそ}い",
     "english": "thin",
     "meanings": [
       "thin",
@@ -22688,7 +22688,7 @@
     "level": "N5",
     "word": "終る",
     "reading": "おわる",
-    "wordFurigana": "{終る|おわる}",
+    "wordFurigana": "{終|おわ}る",
     "english": "to finish",
     "meanings": [
       "to finish",
@@ -22716,7 +22716,7 @@
     ],
     "example": {
       "ja": "そのコンサートは十時に終わった。",
-      "furigana": "そのコンサートは{十時|ととき}に{終わ|おわ}った。",
+      "furigana": "そのコンサートは{十時|ととき}に{終|お}わった。",
       "en": "The concert came to an end at ten o'clock.",
       "source": "OpenJLPT/Tatoeba:213081",
       "generated": false
@@ -22760,7 +22760,7 @@
     "level": "N5",
     "word": "結婚",
     "reading": "けっこん (する)",
-    "wordFurigana": "{結婚|けっこん (する)}",
+    "wordFurigana": "{結婚|けっこん}",
     "english": "marriage (get married)",
     "meanings": [
       "marriage (get married)"
@@ -22777,9 +22777,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは結婚です。",
-      "furigana": "これは{結婚|けっこん (する)}です。",
-      "en": "This is marriage (get married).",
+      "ja": "きょう、店で結婚を買いました。",
+      "furigana": "きょう、{店|みせ}で{結婚|けっこん}を{買|か}いました。",
+      "en": "Today, I bought marriage (get married).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -22897,7 +22897,7 @@
     "level": "N5",
     "word": "締める",
     "reading": "しめる",
-    "wordFurigana": "{締め|しめ}る",
+    "wordFurigana": "{締|し}める",
     "english": "to tie",
     "meanings": [
       "to tie",
@@ -22967,7 +22967,7 @@
     "level": "N5",
     "word": "練習",
     "reading": "れんしゅう (する)",
-    "wordFurigana": "{練習|れんしゅう (する)}",
+    "wordFurigana": "{練習|れんしゅう}",
     "english": "(to) practice",
     "meanings": [
       "(to) practice"
@@ -22984,9 +22984,9 @@
       "topic:n5_topics_filtered.json#sports_hobbies"
     ],
     "example": {
-      "ja": "これは練習です。",
-      "furigana": "これは{練習|れんしゅう (する)}です。",
-      "en": "This is (to) practice.",
+      "ja": "きょう、店で練習を買いました。",
+      "furigana": "きょう、{店|みせ}で{練習|れんしゅう}を{買|か}いました。",
+      "en": "Today, I bought (to) practice.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -23011,9 +23011,9 @@
       "pdf:VocabListN5.pdf:p33"
     ],
     "example": {
-      "ja": "わたしは練習。",
-      "furigana": "わたしは{練習|れんしゅうする}。",
-      "en": "I practice",
+      "ja": "毎日、私は練習ことができます。",
+      "furigana": "{毎日|まいにち}、{私|わたし}は{練習|れんしゅうする}ことができます。",
+      "en": "I can practice.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -23024,7 +23024,7 @@
     "level": "N5",
     "word": "置く",
     "reading": "おく",
-    "wordFurigana": "{置く|おく}",
+    "wordFurigana": "{置|お}く",
     "english": "to put",
     "meanings": [
       "to put",
@@ -23060,7 +23060,7 @@
     "level": "N5",
     "word": "習う",
     "reading": "ならう",
-    "wordFurigana": "{習う|ならう}",
+    "wordFurigana": "{習|なら}う",
     "english": "to learn",
     "meanings": [
       "to learn"
@@ -23129,7 +23129,7 @@
     "level": "N5",
     "word": "聞く",
     "reading": "きく",
-    "wordFurigana": "{聞く|きく}",
+    "wordFurigana": "{聞|き}く",
     "english": "to hear",
     "meanings": [
       "to hear",
@@ -23259,9 +23259,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは背です。",
-      "furigana": "これは{背|せい}です。",
-      "en": "This is height.",
+      "ja": "きょう、店で背を買いました。",
+      "furigana": "きょう、{店|みせ}で{背|せい}を{買|か}いました。",
+      "en": "Today, I bought height.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -23307,7 +23307,7 @@
     "level": "N5",
     "word": "脱ぐ",
     "reading": "ぬぐ",
-    "wordFurigana": "{脱ぐ|ぬぐ}",
+    "wordFurigana": "{脱|ぬ}ぐ",
     "english": "to take off clothes",
     "meanings": [
       "to take off clothes",
@@ -23538,7 +23538,7 @@
     ],
     "example": {
       "ja": "花びんに水を入れなさい。",
-      "furigana": "{花|はな}びんに{水|みず}を{入れ|いれ}なさい。",
+      "furigana": "{花|はな}びんに{水|みず}を{入|い}れなさい。",
       "en": "Put some water into the vase.",
       "source": "OpenJLPT/Tatoeba:186606",
       "generated": false
@@ -23550,7 +23550,7 @@
     "level": "N5",
     "word": "若い",
     "reading": "わかい",
-    "wordFurigana": "{若い|わかい}",
+    "wordFurigana": "{若|わか}い",
     "english": "young",
     "meanings": [
       "young"
@@ -23723,7 +23723,7 @@
     "level": "N5",
     "word": "薄い",
     "reading": "うすい",
-    "wordFurigana": "{薄い|うすい}",
+    "wordFurigana": "{薄|うす}い",
     "english": "thin",
     "meanings": [
       "thin",
@@ -23794,7 +23794,7 @@
     "level": "N5",
     "word": "行く",
     "reading": "いく",
-    "wordFurigana": "{行く|いく}",
+    "wordFurigana": "{行|い}く",
     "english": "to go",
     "meanings": [
       "to go"
@@ -23813,7 +23813,7 @@
     ],
     "example": {
       "ja": "お母さん、泳ぎに行ってもいい？",
-      "furigana": "お{母さん|かあさん}、{泳ぎ|およぎ}に{行って|いって}もいい？",
+      "furigana": "お{母|かあ}さん、{泳|およ}ぎに{行|い}ってもいい？",
       "en": "Can I go swimming, Mother?",
       "source": "OpenJLPT/Tatoeba:226648",
       "generated": false
@@ -23825,7 +23825,7 @@
     "level": "N5",
     "word": "行く",
     "reading": "いく; ゆく",
-    "wordFurigana": "{行く|いく; ゆく}",
+    "wordFurigana": "{行|い}く",
     "english": "to go",
     "meanings": [
       "to go"
@@ -23839,9 +23839,9 @@
       "csv:n5.csv"
     ],
     "example": {
-      "ja": "わたしは行く。",
-      "furigana": "わたしは{行く|いく; ゆく}。",
-      "en": "I go",
+      "ja": "毎日、私は行くことができます。",
+      "furigana": "{毎日|まいにち}、{私|わたし}は{行|い}くことができます。",
+      "en": "I can go.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -23852,7 +23852,7 @@
     "level": "N5",
     "word": "行く",
     "reading": "ゆく",
-    "wordFurigana": "{行く|ゆく}",
+    "wordFurigana": "{行|ゆ}く",
     "english": "to go",
     "meanings": [
       "to go"
@@ -23866,9 +23866,9 @@
       "pdf:VocabListN5.pdf:p32"
     ],
     "example": {
-      "ja": "わたしは行く。",
-      "furigana": "わたしは{行く|ゆく}。",
-      "en": "I go",
+      "ja": "毎日、私は行くことができます。",
+      "furigana": "{毎日|まいにち}、{私|わたし}は{行|ゆ}くことができます。",
+      "en": "I can go.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -23913,7 +23913,7 @@
     "level": "N5",
     "word": "要る",
     "reading": "いる",
-    "wordFurigana": "{要る|いる}",
+    "wordFurigana": "{要|い}る",
     "english": "to need",
     "meanings": [
       "to need"
@@ -23948,7 +23948,7 @@
     "level": "N5",
     "word": "見せる",
     "reading": "みせる",
-    "wordFurigana": "{見せ|みせ}る",
+    "wordFurigana": "{見|み}せる",
     "english": "to show",
     "meanings": [
       "to show",
@@ -23984,7 +23984,7 @@
     "level": "N5",
     "word": "見る",
     "reading": "みる",
-    "wordFurigana": "{見る|みる}",
+    "wordFurigana": "{見|み}る",
     "english": "to see",
     "meanings": [
       "to see",
@@ -24028,7 +24028,7 @@
     "level": "N5",
     "word": "覚える",
     "reading": "おぼえる",
-    "wordFurigana": "{覚え|おぼえ}る",
+    "wordFurigana": "{覚|おぼ}える",
     "english": "to remember",
     "meanings": [
       "to remember",
@@ -24099,7 +24099,7 @@
     "level": "N5",
     "word": "言う",
     "reading": "いう",
-    "wordFurigana": "{言う|いう}",
+    "wordFurigana": "{言|い}う",
     "english": "to say",
     "meanings": [
       "to say"
@@ -24119,7 +24119,7 @@
     ],
     "example": {
       "ja": "「みんなひと休みしようぜ」とジョンは言った。",
-      "furigana": "「みんなひと{休み|やすみ}しようぜ」とジョンは{言った|いった}。",
+      "furigana": "「みんなひと{休|やす}みしようぜ」とジョンは{言|い}った。",
       "en": "John said, \"Hey guys, let's take a break.\"",
       "source": "OpenJLPT/Tatoeba:236431",
       "generated": false
@@ -24205,7 +24205,7 @@
     "level": "N5",
     "word": "話す",
     "reading": "はなす",
-    "wordFurigana": "{話す|はなす}",
+    "wordFurigana": "{話|はな}す",
     "english": "to speak",
     "meanings": [
       "to speak"
@@ -24274,7 +24274,7 @@
     "level": "N5",
     "word": "読む",
     "reading": "よむ",
-    "wordFurigana": "{読む|よむ}",
+    "wordFurigana": "{読|よ}む",
     "english": "to read",
     "meanings": [
       "to read"
@@ -24340,7 +24340,7 @@
     "level": "N5",
     "word": "誰か",
     "reading": "だれか",
-    "wordFurigana": "{誰か|だれか}",
+    "wordFurigana": "{誰|だれ}か",
     "english": "someone",
     "meanings": [
       "someone",
@@ -24488,7 +24488,7 @@
     "level": "N5",
     "word": "買い物",
     "reading": "かいもの",
-    "wordFurigana": "{買い物|かいもの}",
+    "wordFurigana": "{買|か}い{物|もの}",
     "english": "shopping",
     "meanings": [
       "shopping"
@@ -24512,7 +24512,7 @@
     ],
     "example": {
       "ja": "１日おきに買い物に行く。",
-      "furigana": "１{日|にち}おきに{買い物|かいもの}に{行く|いく}。",
+      "furigana": "１{日|にち}おきに{買|か}い{物|もの}に{行|い}く。",
       "en": "I go shopping every other day.",
       "source": "OpenJLPT/Tatoeba:235706",
       "generated": false
@@ -24524,7 +24524,7 @@
     "level": "N5",
     "word": "買う",
     "reading": "かう",
-    "wordFurigana": "{買う|かう}",
+    "wordFurigana": "{買|か}う",
     "english": "to buy",
     "meanings": [
       "to buy"
@@ -24559,7 +24559,7 @@
     "level": "N5",
     "word": "貸す",
     "reading": "かす",
-    "wordFurigana": "{貸す|かす}",
+    "wordFurigana": "{貸|か}す",
     "english": "to lend",
     "meanings": [
       "to lend"
@@ -24594,7 +24594,7 @@
     "level": "N5",
     "word": "貼る",
     "reading": "はる",
-    "wordFurigana": "{貼る|はる}",
+    "wordFurigana": "{貼|は}る",
     "english": "to stick",
     "meanings": [
       "to stick",
@@ -24630,7 +24630,7 @@
     "level": "N5",
     "word": "賑やか",
     "reading": "にぎやか",
-    "wordFurigana": "{賑やか|にぎやか}",
+    "wordFurigana": "{賑|にぎ}やか",
     "english": "bustling",
     "meanings": [
       "bustling",
@@ -24743,7 +24743,7 @@
     "level": "N5",
     "word": "赤い",
     "reading": "あかい",
-    "wordFurigana": "{赤い|あかい}",
+    "wordFurigana": "{赤|あか}い",
     "english": "red",
     "meanings": [
       "red"
@@ -24777,7 +24777,7 @@
     "level": "N5",
     "word": "走る",
     "reading": "はしる",
-    "wordFurigana": "{走る|はしる}",
+    "wordFurigana": "{走|はし}る",
     "english": "to run",
     "meanings": [
       "to run"
@@ -24812,7 +24812,7 @@
     "level": "N5",
     "word": "起きる",
     "reading": "おきる",
-    "wordFurigana": "{起き|おき}る",
+    "wordFurigana": "{起|お}きる",
     "english": "to get up",
     "meanings": [
       "to get up",
@@ -24923,7 +24923,7 @@
     "level": "N5",
     "word": "軽い",
     "reading": "かるい",
-    "wordFurigana": "{軽い|かるい}",
+    "wordFurigana": "{軽|かる}い",
     "english": "light",
     "meanings": [
       "light",
@@ -24958,7 +24958,7 @@
     "level": "N5",
     "word": "辛い",
     "reading": "からい",
-    "wordFurigana": "{辛い|からい}",
+    "wordFurigana": "{辛|から}い",
     "english": "spicy",
     "meanings": [
       "spicy",
@@ -25062,7 +25062,7 @@
     "level": "N5",
     "word": "近い",
     "reading": "ちかい",
-    "wordFurigana": "{近い|ちかい}",
+    "wordFurigana": "{近|ちか}い",
     "english": "near",
     "meanings": [
       "near",
@@ -25097,7 +25097,7 @@
     "level": "N5",
     "word": "近く",
     "reading": "ちかく",
-    "wordFurigana": "{近く|ちかく}",
+    "wordFurigana": "{近|ちか}く",
     "english": "near",
     "meanings": [
       "near",
@@ -25122,7 +25122,7 @@
     ],
     "example": {
       "ja": "７時近くだ。学校へ行かなくては。",
-      "furigana": "７{時|とき}{近く|ちかく}だ。{学校|がっこう}へ{行か|いか}なくては。",
+      "furigana": "７{時|とき}{近|ちか}くだ。{学校|がっこう}へ{行|い}かなくては。",
       "en": "It is close to seven o'clock. We have to go to school.",
       "source": "OpenJLPT/Tatoeba:234967",
       "generated": false
@@ -25134,7 +25134,7 @@
     "level": "N5",
     "word": "返す",
     "reading": "かえす",
-    "wordFurigana": "{返す|かえす}",
+    "wordFurigana": "{返|かえ}す",
     "english": "to return something",
     "meanings": [
       "to return something"
@@ -25169,7 +25169,7 @@
     "level": "N5",
     "word": "速い",
     "reading": "はやい",
-    "wordFurigana": "{速い|はやい}",
+    "wordFurigana": "{速|はや}い",
     "english": "quick",
     "meanings": [
       "quick",
@@ -25204,7 +25204,7 @@
     "level": "N5",
     "word": "遅い",
     "reading": "おそい",
-    "wordFurigana": "{遅い|おそい}",
+    "wordFurigana": "{遅|おそ}い",
     "english": "late",
     "meanings": [
       "late",
@@ -25241,7 +25241,7 @@
     "level": "N5",
     "word": "遊ぶ",
     "reading": "あそぶ",
-    "wordFurigana": "{遊ぶ|あそぶ}",
+    "wordFurigana": "{遊|あそ}ぶ",
     "english": "to play",
     "meanings": [
       "to play",
@@ -25317,7 +25317,7 @@
     "level": "N5",
     "word": "違う",
     "reading": "ちがう",
-    "wordFurigana": "{違う|ちがう}",
+    "wordFurigana": "{違|ちが}う",
     "english": "to differ",
     "meanings": [
       "to differ",
@@ -25350,7 +25350,7 @@
     "level": "N5",
     "word": "遠い",
     "reading": "とおい",
-    "wordFurigana": "{遠い|とおい}",
+    "wordFurigana": "{遠|とお}い",
     "english": "far",
     "meanings": [
       "far",
@@ -25460,7 +25460,7 @@
     "level": "N5",
     "word": "重い",
     "reading": "おもい",
-    "wordFurigana": "{重い|おもい}",
+    "wordFurigana": "{重|おも}い",
     "english": "heavy",
     "meanings": [
       "heavy",
@@ -25635,7 +25635,7 @@
     "level": "N5",
     "word": "長い",
     "reading": "ながい",
-    "wordFurigana": "{長い|ながい}",
+    "wordFurigana": "{長|なが}い",
     "english": "long",
     "meanings": [
       "long",
@@ -25704,7 +25704,7 @@
     "level": "N5",
     "word": "閉まる",
     "reading": "しまる",
-    "wordFurigana": "{閉ま|しま}る",
+    "wordFurigana": "{閉|し}まる",
     "english": "to close",
     "meanings": [
       "to close",
@@ -25741,7 +25741,7 @@
     "level": "N5",
     "word": "閉める",
     "reading": "しめる",
-    "wordFurigana": "{閉め|しめ}る",
+    "wordFurigana": "{閉|し}める",
     "english": "to close something",
     "meanings": [
       "to close something",
@@ -25777,7 +25777,7 @@
     "level": "N5",
     "word": "開く",
     "reading": "あく",
-    "wordFurigana": "{開く|あく}",
+    "wordFurigana": "{開|あ}く",
     "english": "to open",
     "meanings": [
       "to open",
@@ -25814,7 +25814,7 @@
     "level": "N5",
     "word": "開ける",
     "reading": "あける",
-    "wordFurigana": "{開ける|あける}",
+    "wordFurigana": "{開|あ}ける",
     "english": "to open",
     "meanings": [
       "to open",
@@ -25850,7 +25850,7 @@
     "level": "N5",
     "word": "降りる",
     "reading": "おりる",
-    "wordFurigana": "{降り|おり}る",
+    "wordFurigana": "{降|お}りる",
     "english": "to get off",
     "meanings": [
       "to get off",
@@ -25887,7 +25887,7 @@
     "level": "N5",
     "word": "降る",
     "reading": "ふる",
-    "wordFurigana": "{降る|ふる}",
+    "wordFurigana": "{降|ふ}る",
     "english": "to fall (e.g. rain or snow)",
     "meanings": [
       "to fall (e.g. rain or snow)",
@@ -25949,7 +25949,7 @@
     ],
     "example": {
       "ja": "その階段を上ってはいけません。",
-      "furigana": "その{階段|かいだん}を{上っ|あっ}てはいけません。",
+      "furigana": "その{階段|かいだん}を{上|あ}ってはいけません。",
       "en": "You must not go up the stairs.",
       "source": "OpenJLPT/Tatoeba:211701",
       "generated": false
@@ -26034,7 +26034,7 @@
     "level": "N5",
     "word": "難しい",
     "reading": "むずかしい",
-    "wordFurigana": "{難しい|むずかしい}",
+    "wordFurigana": "{難|むずか}しい",
     "english": "difficult",
     "meanings": [
       "difficult"
@@ -26161,9 +26161,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは零です。",
-      "furigana": "これは{零|れい}です。",
-      "en": "This is zero.",
+      "ja": "きょう、店で零を買いました。",
+      "furigana": "きょう、{店|みせ}で{零|れい}を{買|か}いました。",
+      "en": "Today, I bought zero.",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -26321,7 +26321,7 @@
     "level": "N5",
     "word": "青い",
     "reading": "あおい",
-    "wordFurigana": "{青い|あおい}",
+    "wordFurigana": "{青|あお}い",
     "english": "blue",
     "meanings": [
       "blue"
@@ -26355,7 +26355,7 @@
     "level": "N5",
     "word": "静か",
     "reading": "しずか",
-    "wordFurigana": "{静か|しずか}",
+    "wordFurigana": "{静|しず}か",
     "english": "quiet",
     "meanings": [
       "quiet",
@@ -26527,7 +26527,7 @@
     "level": "N5",
     "word": "頼む",
     "reading": "たのむ",
-    "wordFurigana": "{頼む|たのむ}",
+    "wordFurigana": "{頼|たの}む",
     "english": "to ask",
     "meanings": [
       "to ask",
@@ -26580,9 +26580,9 @@
       "topic:n5_topics_filtered.json#daily_life"
     ],
     "example": {
-      "ja": "これは顔です。",
-      "furigana": "これは{顔|かお}です。",
-      "en": "This is face (body part).",
+      "ja": "きょう、店で顔を買いました。",
+      "furigana": "きょう、{店|みせ}で{顔|かお}を{買|か}いました。",
+      "en": "Today, I bought face (body part).",
       "source": "Original example generated for this app",
       "generated": true
     },
@@ -26663,7 +26663,7 @@
     "level": "N5",
     "word": "飛ぶ",
     "reading": "とぶ",
-    "wordFurigana": "{飛ぶ|とぶ}",
+    "wordFurigana": "{飛|と}ぶ",
     "english": "to fly",
     "meanings": [
       "to fly",
@@ -26736,7 +26736,7 @@
     "level": "N5",
     "word": "食べる",
     "reading": "たべる",
-    "wordFurigana": "{食べ|たべ}る",
+    "wordFurigana": "{食|た}べる",
     "english": "to eat",
     "meanings": [
       "to eat"
@@ -26771,7 +26771,7 @@
     "level": "N5",
     "word": "食べ物",
     "reading": "たべもの",
-    "wordFurigana": "{食べ物|たべもの}",
+    "wordFurigana": "{食|た}べ{物|もの}",
     "english": "food",
     "meanings": [
       "food"
@@ -26840,7 +26840,7 @@
     "level": "N5",
     "word": "飲み物",
     "reading": "のみもの",
-    "wordFurigana": "{飲み物|のみもの}",
+    "wordFurigana": "{飲|の}み{物|もの}",
     "english": "a drink",
     "meanings": [
       "a drink",
@@ -26863,7 +26863,7 @@
     ],
     "example": {
       "ja": "何か飲み物をいただけますか。",
-      "furigana": "{何か|なにか}{飲み物|のみもの}をいただけますか。",
+      "furigana": "{何|なに}か{飲|の}み{物|もの}をいただけますか。",
       "en": "May I have something to drink?",
       "source": "OpenJLPT/Tatoeba:188051",
       "generated": false
@@ -26875,7 +26875,7 @@
     "level": "N5",
     "word": "飲む",
     "reading": "のむ",
-    "wordFurigana": "{飲む|のむ}",
+    "wordFurigana": "{飲|の}む",
     "english": "to drink",
     "meanings": [
       "to drink"
@@ -26979,7 +26979,7 @@
     "level": "N5",
     "word": "高い",
     "reading": "たかい",
-    "wordFurigana": "{高い|たかい}",
+    "wordFurigana": "{高|たか}い",
     "english": "tall",
     "meanings": [
       "tall",
@@ -27085,7 +27085,7 @@
     "level": "N5",
     "word": "鳴く",
     "reading": "なく",
-    "wordFurigana": "{鳴く|なく}",
+    "wordFurigana": "{鳴|な}く",
     "english": "to make a sound (of an animal)",
     "meanings": [
       "to make a sound (of an animal)",
@@ -27197,7 +27197,7 @@
     "level": "N5",
     "word": "黄色い",
     "reading": "きいろい",
-    "wordFurigana": "{黄色い|きいろい}",
+    "wordFurigana": "{黄色|きいろ}い",
     "english": "yellow",
     "meanings": [
       "yellow"
@@ -27266,7 +27266,7 @@
     "level": "N5",
     "word": "黒い",
     "reading": "くろい",
-    "wordFurigana": "{黒い|くろい}",
+    "wordFurigana": "{黒|くろ}い",
     "english": "black",
     "meanings": [
       "black",

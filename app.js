@@ -9,6 +9,7 @@ const state = {
   entries: [],
   seen: new Set(),
   current: null,
+  history: [],
   revealed: false,
   cycleComplete: false,
 };
@@ -76,6 +77,19 @@ function beginCard({ reset = false, message = '' } = {}) {
   render();
 }
 
+function advanceCard() {
+  if (state.current) state.history.push({ id: state.current.id, revealed: state.revealed });
+  beginCard();
+}
+
+function goBack() {
+  const previous = state.history.pop();
+  if (!previous) return;
+  state.current = state.entries.find((entry) => entry.id === previous.id) || null;
+  state.revealed = previous.revealed;
+  render();
+}
+
 function renderCard() {
   const button = $('flashcard');
   const content = $('card-content');
@@ -130,6 +144,7 @@ function render() {
   $('level-eyebrow').textContent = `JLPT ${label}`;
   $('table-eyebrow').textContent = `JLPT ${label}`;
   $('progress').textContent = `${state.seen.size.toLocaleString()} / ${state.entries.length.toLocaleString()} seen`;
+  $('back-button').disabled = state.history.length === 0;
   renderCard();
   renderTable();
 }
@@ -138,6 +153,7 @@ async function loadLevel(level) {
   state.level = level;
   state.entries = [];
   state.current = null;
+  state.history = [];
   state.revealed = false;
   state.cycleComplete = false;
   $('cycle-note').textContent = '';
@@ -175,9 +191,10 @@ $('flashcard').addEventListener('click', () => {
     $('cycle-note').textContent = '';
     render();
   } else {
-    beginCard();
+    advanceCard();
   }
 });
+$('back-button').addEventListener('click', goBack);
 $('level-select').addEventListener('change', (event) => loadLevel(event.target.value));
 $('side-select').addEventListener('change', (event) => {
   state.side = event.target.value;
@@ -186,6 +203,7 @@ $('side-select').addEventListener('change', (event) => {
 });
 $('reset-button').addEventListener('click', () => {
   state.seen.clear();
+  state.history = [];
   state.cycleComplete = false;
   saveSeen();
   beginCard({ reset: true, message: 'This level’s seen list has been reset.' });

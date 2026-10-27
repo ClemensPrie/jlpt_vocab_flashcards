@@ -1,4 +1,4 @@
-const CACHE = 'jlpt-vocab-skim-v1';
+const CACHE = 'jlpt-vocab-skim-v2';
 const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest', './icon.svg', './data/levels/n5.json', './data/levels/n4.json', './data/levels/n3.json', './data/levels/n2.json', './data/levels/n1.json'];
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)).then(() => self.skipWaiting()));

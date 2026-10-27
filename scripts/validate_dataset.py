@@ -11,7 +11,7 @@ from pathlib import Path
 APP_DIR = Path(__file__).resolve().parents[1]
 LEVELS = ["N5", "N4", "N3", "N2", "N1"]
 RANK = {level: index for index, level in enumerate(LEVELS)}
-KANJI_RE = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
+KANJI_RE = re.compile(r"[\u3005\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 RUBY_RE = re.compile(r"\{([^{}|]+)\|([^{}|]+)\}")
 
 
